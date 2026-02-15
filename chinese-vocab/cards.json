@@ -436,14 +436,27 @@
     "front": "<ruby>上<rt>shàng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
   "中午": {
-    "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>",
     "back": "noon",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:40:56.080Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:39:56.080Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
   "下午": {
     "back": "afternoon",
@@ -669,14 +682,27 @@
     ]
   },
   "中国": {
-    "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>国<rt>guó</rt></ruby>",
     "back": "China",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:50:04.361Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:40:04.361Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>国<rt>guó</rt></ruby>"
   },
   "北京": {
     "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>",
