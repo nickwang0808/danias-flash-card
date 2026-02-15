@@ -408,15 +408,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T22:35:04.027Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-15T22:47:16.925Z",
+      "stability": 0.33807815,
+      "difficulty": 7.6297166,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-15T22:34:04.027Z"
+      "last_review": "2026-02-15T22:37:16.925Z"
     },
     "reverseState": null,
     "suspended": false,
