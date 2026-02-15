@@ -1565,14 +1565,27 @@
     ]
   },
   "上": {
-    "front": "<ruby>上<rt>shàng</rt></ruby>",
     "back": "up / on / above",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "position"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:34:12.265Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:33:12.265Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>上<rt>shàng</rt></ruby>"
   },
   "下": {
     "front": "<ruby>下<rt>xià</rt></ruby>",
