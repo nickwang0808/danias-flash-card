@@ -1607,13 +1607,27 @@
     ]
   },
   "个": {
-    "front": "<ruby>个<rt>gè</rt></ruby>",
     "back": "general measure word (most common classifier)",
-    "created": "2026-02-15T00:00:00.000Z",
     "tags": [
       "hsk1",
       "measure-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": false,
+    "state": {
+      "due": "2026-02-15T22:44:40.808Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:39:40.808Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>个<rt>gè</rt></ruby>"
   },
   "岁": {
     "front": "<ruby>岁<rt>suì</rt></ruby>",
