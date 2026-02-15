@@ -320,14 +320,27 @@
     ]
   },
   "两": {
-    "front": "<ruby>两<rt>liǎng</rt></ruby>",
     "back": "two (used with measure words)",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "numbers"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:44:27.883Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:39:27.883Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>两<rt>liǎng</rt></ruby>"
   },
   "年": {
     "front": "<ruby>年<rt>nián</rt></ruby>",
@@ -846,14 +859,27 @@
     ]
   },
   "东西": {
-    "front": "<ruby>东<rt>dōng</rt></ruby><ruby>西<rt>xi</rt></ruby>",
     "back": "thing / stuff",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:40:18.027Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:39:18.027Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>东<rt>dōng</rt></ruby><ruby>西<rt>xi</rt></ruby>"
   },
   "猫": {
     "front": "<ruby>猫<rt>māo</rt></ruby>",
