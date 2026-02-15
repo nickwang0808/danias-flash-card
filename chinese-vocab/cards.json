@@ -300,14 +300,27 @@
     ]
   },
   "九": {
-    "front": "<ruby>九<rt>jiǔ</rt></ruby>",
     "back": "nine",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "numbers"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:41:15.504Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:40:15.504Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>九<rt>jiǔ</rt></ruby>"
   },
   "十": {
     "front": "<ruby>十<rt>shí</rt></ruby>",
@@ -785,14 +798,27 @@
     ]
   },
   "书": {
-    "front": "<ruby>书<rt>shū</rt></ruby>",
     "back": "book",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:41:26.762Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:40:26.762Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>书<rt>shū</rt></ruby>"
   },
   "字": {
     "front": "<ruby>字<rt>zì</rt></ruby>",
@@ -1567,14 +1593,27 @@
     ]
   },
   "也": {
-    "front": "<ruby>也<rt>yě</rt></ruby>",
     "back": "also / too",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "adverbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:41:22.652Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:40:22.652Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>也<rt>yě</rt></ruby>"
   },
   "和": {
     "front": "<ruby>和<rt>hé</rt></ruby>",
