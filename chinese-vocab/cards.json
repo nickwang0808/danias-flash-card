@@ -1614,15 +1614,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T22:57:13.114Z",
-      "stability": 0.14225803,
-      "difficulty": 8.60970538,
+      "due": "2026-02-15T22:58:57.933Z",
+      "stability": 0.11947418,
+      "difficulty": 8.80949416,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-15T22:47:13.114Z"
+      "last_review": "2026-02-15T22:48:57.933Z"
     },
     "reverseState": null,
     "suspended": false,
