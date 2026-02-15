@@ -433,14 +433,27 @@
     ]
   },
   "下午": {
-    "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>",
     "back": "afternoon",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:35:46.976Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:34:46.976Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
   "时候": {
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>",
@@ -1601,14 +1614,27 @@
     "front": "<ruby>上<rt>shàng</rt></ruby>"
   },
   "下": {
-    "front": "<ruby>下<rt>xià</rt></ruby>",
     "back": "down / under / below",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "position"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:35:37.106Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:34:37.106Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>下<rt>xià</rt></ruby>"
   },
   "前面": {
     "front": "<ruby>前<rt>qián</rt></ruby><ruby>面<rt>miàn</rt></ruby>",
