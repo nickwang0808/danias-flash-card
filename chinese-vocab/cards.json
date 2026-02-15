@@ -919,15 +919,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-15T22:51:42.784Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
+      "due": "2026-02-15T22:55:01.929Z",
+      "stability": 0.28393202,
+      "difficulty": 7.99230136,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-15T22:41:42.784Z"
+      "last_review": "2026-02-15T22:45:01.929Z"
     },
     "reverseState": null,
     "suspended": false,
