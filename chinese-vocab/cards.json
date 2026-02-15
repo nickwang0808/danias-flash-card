@@ -1246,14 +1246,27 @@
     ]
   },
   "下雨": {
-    "front": "<ruby>下<rt>xià</rt></ruby><ruby>雨<rt>yǔ</rt></ruby>",
     "back": "to rain",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:37:02.300Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:36:02.300Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>下<rt>xià</rt></ruby><ruby>雨<rt>yǔ</rt></ruby>"
   },
   "你好": {
     "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>好<rt>hǎo</rt></ruby>",
@@ -1426,14 +1439,27 @@
     ]
   },
   "不": {
-    "front": "<ruby>不<rt>bù</rt></ruby>",
     "back": "not / no",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "adverbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-15T22:46:08.886Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:36:08.886Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>不<rt>bù</rt></ruby>"
   },
   "没": {
     "front": "<ruby>没<rt>méi</rt></ruby>",
