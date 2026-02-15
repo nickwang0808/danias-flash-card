@@ -5,1093 +5,1577 @@
     "back": "I / me",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "你": {
     "front": "<ruby>你<rt>nǐ</rt></ruby>",
     "back": "you",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "他": {
     "front": "<ruby>他<rt>tā</rt></ruby>",
     "back": "he / him",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "她": {
     "front": "<ruby>她<rt>tā</rt></ruby>",
     "back": "she / her",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "我们": {
     "front": "<ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby>",
     "back": "we / us",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "你们": {
     "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby>",
     "back": "you (plural)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "他们": {
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>",
     "back": "they / them",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "这": {
     "front": "<ruby>这<rt>zhè</rt></ruby>",
     "back": "this",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "那": {
     "front": "<ruby>那<rt>nà</rt></ruby>",
     "back": "that",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "pronouns"]
+    "tags": [
+      "hsk1",
+      "pronouns"
+    ]
   },
   "谁": {
     "front": "<ruby>谁<rt>shéi</rt></ruby>",
     "back": "who",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "什么": {
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>",
     "back": "what",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "哪": {
     "front": "<ruby>哪<rt>nǎ</rt></ruby>",
     "back": "which",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "哪儿": {
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>",
     "back": "where",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "几": {
     "front": "<ruby>几<rt>jǐ</rt></ruby>",
     "back": "how many (small numbers) / what (time)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "多少": {
     "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>",
     "back": "how many / how much",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "怎么": {
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby>",
     "back": "how / why",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "怎么样": {
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby><ruby>样<rt>yàng</rt></ruby>",
     "back": "how is it / how about",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "question-words"]
+    "tags": [
+      "hsk1",
+      "question-words"
+    ]
   },
   "零": {
     "front": "<ruby>零<rt>líng</rt></ruby>",
     "back": "zero",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "一": {
-    "front": "<ruby>一<rt>yī</rt></ruby>",
     "back": "one",
+    "tags": [
+      "hsk1",
+      "numbers"
+    ],
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "state": {
+      "due": "2026-02-15T22:33:41.653Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-15T22:32:41.653Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>一<rt>yī</rt></ruby>"
   },
   "二": {
     "front": "<ruby>二<rt>èr</rt></ruby>",
     "back": "two",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "三": {
     "front": "<ruby>三<rt>sān</rt></ruby>",
     "back": "three",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "四": {
     "front": "<ruby>四<rt>sì</rt></ruby>",
     "back": "four",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "五": {
     "front": "<ruby>五<rt>wǔ</rt></ruby>",
     "back": "five",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "六": {
     "front": "<ruby>六<rt>liù</rt></ruby>",
     "back": "six",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "七": {
     "front": "<ruby>七<rt>qī</rt></ruby>",
     "back": "seven",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "八": {
     "front": "<ruby>八<rt>bā</rt></ruby>",
     "back": "eight",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "九": {
     "front": "<ruby>九<rt>jiǔ</rt></ruby>",
     "back": "nine",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "十": {
     "front": "<ruby>十<rt>shí</rt></ruby>",
     "back": "ten",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "两": {
     "front": "<ruby>两<rt>liǎng</rt></ruby>",
     "back": "two (used with measure words)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "numbers"]
+    "tags": [
+      "hsk1",
+      "numbers"
+    ]
   },
   "年": {
     "front": "<ruby>年<rt>nián</rt></ruby>",
     "back": "year",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "月": {
     "front": "<ruby>月<rt>yuè</rt></ruby>",
     "back": "month",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "日": {
     "front": "<ruby>日<rt>rì</rt></ruby>",
     "back": "day (formal) / date",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "星期": {
     "front": "<ruby>星<rt>xīng</rt></ruby><ruby>期<rt>qī</rt></ruby>",
     "back": "week",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "今天": {
     "front": "<ruby>今<rt>jīn</rt></ruby><ruby>天<rt>tiān</rt></ruby>",
     "back": "today",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "明天": {
     "front": "<ruby>明<rt>míng</rt></ruby><ruby>天<rt>tiān</rt></ruby>",
     "back": "tomorrow",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "昨天": {
     "front": "<ruby>昨<rt>zuó</rt></ruby><ruby>天<rt>tiān</rt></ruby>",
     "back": "yesterday",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "上午": {
     "front": "<ruby>上<rt>shàng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>",
     "back": "morning (before noon)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "中午": {
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>",
     "back": "noon",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "下午": {
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>",
     "back": "afternoon",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "时候": {
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>",
     "back": "time / moment",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "现在": {
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>",
     "back": "now",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "点": {
     "front": "<ruby>点<rt>diǎn</rt></ruby>",
     "back": "o'clock / point",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "time"]
+    "tags": [
+      "hsk1",
+      "time"
+    ]
   },
   "爸爸": {
     "front": "<ruby>爸<rt>bà</rt></ruby><ruby>爸<rt>ba</rt></ruby>",
     "back": "dad",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "family"]
+    "tags": [
+      "hsk1",
+      "family"
+    ]
   },
   "妈妈": {
     "front": "<ruby>妈<rt>mā</rt></ruby><ruby>妈<rt>ma</rt></ruby>",
     "back": "mom",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "family"]
+    "tags": [
+      "hsk1",
+      "family"
+    ]
   },
   "儿子": {
     "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "son",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "family"]
+    "tags": [
+      "hsk1",
+      "family"
+    ]
   },
   "女儿": {
     "front": "<ruby>女<rt>nǚ</rt></ruby><ruby>儿<rt>ér</rt></ruby>",
     "back": "daughter",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "family"]
+    "tags": [
+      "hsk1",
+      "family"
+    ]
   },
   "家": {
     "front": "<ruby>家<rt>jiā</rt></ruby>",
     "back": "home / family",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "family"]
+    "tags": [
+      "hsk1",
+      "family"
+    ]
   },
   "先生": {
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>",
     "back": "Mr. / sir / husband",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "小姐": {
     "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>",
     "back": "Miss / young lady",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "人": {
     "front": "<ruby>人<rt>rén</rt></ruby>",
     "back": "person / people",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "朋友": {
     "front": "<ruby>朋<rt>péng</rt></ruby><ruby>友<rt>you</rt></ruby>",
     "back": "friend",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "同学": {
     "front": "<ruby>同<rt>tóng</rt></ruby><ruby>学<rt>xué</rt></ruby>",
     "back": "classmate",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "老师": {
     "front": "<ruby>老<rt>lǎo</rt></ruby><ruby>师<rt>shī</rt></ruby>",
     "back": "teacher",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "学生": {
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>生<rt>shēng</rt></ruby>",
     "back": "student",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "医生": {
     "front": "<ruby>医<rt>yī</rt></ruby><ruby>生<rt>shēng</rt></ruby>",
     "back": "doctor",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "people"]
+    "tags": [
+      "hsk1",
+      "people"
+    ]
   },
   "学校": {
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>",
     "back": "school",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "医院": {
     "front": "<ruby>医<rt>yī</rt></ruby><ruby>院<rt>yuàn</rt></ruby>",
     "back": "hospital",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "商店": {
     "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>",
     "back": "store / shop",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "饭店": {
     "front": "<ruby>饭<rt>fàn</rt></ruby><ruby>店<rt>diàn</rt></ruby>",
     "back": "restaurant / hotel",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "中国": {
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>国<rt>guó</rt></ruby>",
     "back": "China",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "北京": {
     "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>",
     "back": "Beijing",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "places"]
+    "tags": [
+      "hsk1",
+      "places"
+    ]
   },
   "水": {
     "front": "<ruby>水<rt>shuǐ</rt></ruby>",
     "back": "water",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "茶": {
     "front": "<ruby>茶<rt>chá</rt></ruby>",
     "back": "tea",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "米饭": {
     "front": "<ruby>米<rt>mǐ</rt></ruby><ruby>饭<rt>fàn</rt></ruby>",
     "back": "cooked rice",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "菜": {
     "front": "<ruby>菜<rt>cài</rt></ruby>",
     "back": "dish / vegetable",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "水果": {
     "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>",
     "back": "fruit",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "苹果": {
     "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>",
     "back": "apple",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "杯子": {
     "front": "<ruby>杯<rt>bēi</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "cup / glass",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "food-drink"]
+    "tags": [
+      "hsk1",
+      "food-drink"
+    ]
   },
   "书": {
     "front": "<ruby>书<rt>shū</rt></ruby>",
     "back": "book",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "字": {
     "front": "<ruby>字<rt>zì</rt></ruby>",
     "back": "character / word",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "桌子": {
     "front": "<ruby>桌<rt>zhuō</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "table / desk",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "椅子": {
     "front": "<ruby>椅<rt>yǐ</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "chair",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "电话": {
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>",
     "back": "telephone",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "电脑": {
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>",
     "back": "computer",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "电视": {
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>",
     "back": "television",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "电影": {
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>",
     "back": "movie / film",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "钱": {
     "front": "<ruby>钱<rt>qián</rt></ruby>",
     "back": "money",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "衣服": {
     "front": "<ruby>衣<rt>yī</rt></ruby><ruby>服<rt>fu</rt></ruby>",
     "back": "clothes",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "东西": {
     "front": "<ruby>东<rt>dōng</rt></ruby><ruby>西<rt>xi</rt></ruby>",
     "back": "thing / stuff",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "猫": {
     "front": "<ruby>猫<rt>māo</rt></ruby>",
     "back": "cat",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "狗": {
     "front": "<ruby>狗<rt>gǒu</rt></ruby>",
     "back": "dog",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "名字": {
     "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>",
     "back": "name",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "汉语": {
     "front": "<ruby>汉<rt>hàn</rt></ruby><ruby>语<rt>yǔ</rt></ruby>",
     "back": "Chinese language",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "天气": {
     "front": "<ruby>天<rt>tiān</rt></ruby><ruby>气<rt>qì</rt></ruby>",
     "back": "weather",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "objects"]
+    "tags": [
+      "hsk1",
+      "objects"
+    ]
   },
   "飞机": {
     "front": "<ruby>飞<rt>fēi</rt></ruby><ruby>机<rt>jī</rt></ruby>",
     "back": "airplane",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "transport"]
+    "tags": [
+      "hsk1",
+      "transport"
+    ]
   },
   "出租车": {
     "front": "<ruby>出<rt>chū</rt></ruby><ruby>租<rt>zū</rt></ruby><ruby>车<rt>chē</rt></ruby>",
     "back": "taxi",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "transport"]
+    "tags": [
+      "hsk1",
+      "transport"
+    ]
   },
   "车站": {
     "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>",
     "back": "station (bus/train)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "transport"]
+    "tags": [
+      "hsk1",
+      "transport"
+    ]
   },
   "是": {
     "front": "<ruby>是<rt>shì</rt></ruby>",
     "back": "to be (am/is/are)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "有": {
     "front": "<ruby>有<rt>yǒu</rt></ruby>",
     "back": "to have / there is",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "看": {
     "front": "<ruby>看<rt>kàn</rt></ruby>",
     "back": "to look / to watch / to read",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "听": {
     "front": "<ruby>听<rt>tīng</rt></ruby>",
     "back": "to listen",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "说": {
     "front": "<ruby>说<rt>shuō</rt></ruby>",
     "back": "to speak / to say",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "读": {
     "front": "<ruby>读<rt>dú</rt></ruby>",
     "back": "to read (aloud)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "写": {
     "front": "<ruby>写<rt>xiě</rt></ruby>",
     "back": "to write",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "想": {
     "front": "<ruby>想<rt>xiǎng</rt></ruby>",
     "back": "to think / to want / to miss",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "去": {
     "front": "<ruby>去<rt>qù</rt></ruby>",
     "back": "to go",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "来": {
     "front": "<ruby>来<rt>lái</rt></ruby>",
     "back": "to come",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "回": {
     "front": "<ruby>回<rt>huí</rt></ruby>",
     "back": "to return / to go back",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "吃": {
     "front": "<ruby>吃<rt>chī</rt></ruby>",
     "back": "to eat",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "喝": {
     "front": "<ruby>喝<rt>hē</rt></ruby>",
     "back": "to drink",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "睡觉": {
     "front": "<ruby>睡<rt>shuì</rt></ruby><ruby>觉<rt>jiào</rt></ruby>",
     "back": "to sleep",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "买": {
     "front": "<ruby>买<rt>mǎi</rt></ruby>",
     "back": "to buy",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "做": {
     "front": "<ruby>做<rt>zuò</rt></ruby>",
     "back": "to do / to make",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "住": {
     "front": "<ruby>住<rt>zhù</rt></ruby>",
     "back": "to live / to stay",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "坐": {
     "front": "<ruby>坐<rt>zuò</rt></ruby>",
     "back": "to sit / to take (transport)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "开": {
     "front": "<ruby>开<rt>kāi</rt></ruby>",
     "back": "to open / to drive",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "学习": {
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>习<rt>xí</rt></ruby>",
     "back": "to study / to learn",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "工作": {
     "front": "<ruby>工<rt>gōng</rt></ruby><ruby>作<rt>zuò</rt></ruby>",
     "back": "to work / job",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "打电话": {
     "front": "<ruby>打<rt>dǎ</rt></ruby><ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>",
     "back": "to make a phone call",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "看见": {
     "front": "<ruby>看<rt>kàn</rt></ruby><ruby>见<rt>jiàn</rt></ruby>",
     "back": "to see",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "会": {
     "front": "<ruby>会<rt>huì</rt></ruby>",
     "back": "can (learned skill) / will",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "能": {
     "front": "<ruby>能<rt>néng</rt></ruby>",
     "back": "can / able to",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "认识": {
     "front": "<ruby>认<rt>rèn</rt></ruby><ruby>识<rt>shi</rt></ruby>",
     "back": "to know (a person) / to recognize",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "知道": {
     "front": "<ruby>知<rt>zhī</rt></ruby><ruby>道<rt>dào</rt></ruby>",
     "back": "to know (a fact)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "喜欢": {
     "front": "<ruby>喜<rt>xǐ</rt></ruby><ruby>欢<rt>huan</rt></ruby>",
     "back": "to like",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "爱": {
     "front": "<ruby>爱<rt>ài</rt></ruby>",
     "back": "to love",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "叫": {
     "front": "<ruby>叫<rt>jiào</rt></ruby>",
     "back": "to be called / to call",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "请": {
     "front": "<ruby>请<rt>qǐng</rt></ruby>",
     "back": "please / to invite",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "下雨": {
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>雨<rt>yǔ</rt></ruby>",
     "back": "to rain",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "verbs"]
+    "tags": [
+      "hsk1",
+      "verbs"
+    ]
   },
   "你好": {
     "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>好<rt>hǎo</rt></ruby>",
     "back": "hello",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "谢谢": {
     "front": "<ruby>谢<rt>xiè</rt></ruby><ruby>谢<rt>xie</rt></ruby>",
     "back": "thank you",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "不客气": {
     "front": "<ruby>不<rt>bú</rt></ruby><ruby>客<rt>kè</rt></ruby><ruby>气<rt>qi</rt></ruby>",
     "back": "you're welcome",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "对不起": {
     "front": "<ruby>对<rt>duì</rt></ruby><ruby>不<rt>bu</rt></ruby><ruby>起<rt>qǐ</rt></ruby>",
     "back": "sorry",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "没关系": {
     "front": "<ruby>没<rt>méi</rt></ruby><ruby>关<rt>guān</rt></ruby><ruby>系<rt>xi</rt></ruby>",
     "back": "it's okay / no problem",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "再见": {
     "front": "<ruby>再<rt>zài</rt></ruby><ruby>见<rt>jiàn</rt></ruby>",
     "back": "goodbye",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "greetings"]
+    "tags": [
+      "hsk1",
+      "greetings"
+    ]
   },
   "好": {
     "front": "<ruby>好<rt>hǎo</rt></ruby>",
     "back": "good / fine / okay",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "大": {
     "front": "<ruby>大<rt>dà</rt></ruby>",
     "back": "big / large",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "小": {
     "front": "<ruby>小<rt>xiǎo</rt></ruby>",
     "back": "small / little",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "多": {
     "front": "<ruby>多<rt>duō</rt></ruby>",
     "back": "many / much",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "少": {
     "front": "<ruby>少<rt>shǎo</rt></ruby>",
     "back": "few / little",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "冷": {
     "front": "<ruby>冷<rt>lěng</rt></ruby>",
     "back": "cold",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "热": {
     "front": "<ruby>热<rt>rè</rt></ruby>",
     "back": "hot",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "高兴": {
     "front": "<ruby>高<rt>gāo</rt></ruby><ruby>兴<rt>xìng</rt></ruby>",
     "back": "happy / glad",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "漂亮": {
     "front": "<ruby>漂<rt>piào</rt></ruby><ruby>亮<rt>liang</rt></ruby>",
     "back": "beautiful / pretty",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "高": {
     "front": "<ruby>高<rt>gāo</rt></ruby>",
     "back": "tall / high",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "对": {
     "front": "<ruby>对<rt>duì</rt></ruby>",
     "back": "correct / right",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adjectives"]
+    "tags": [
+      "hsk1",
+      "adjectives"
+    ]
   },
   "不": {
     "front": "<ruby>不<rt>bù</rt></ruby>",
     "back": "not / no",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "没": {
     "front": "<ruby>没<rt>méi</rt></ruby>",
     "back": "not (negates 有) / have not",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "很": {
     "front": "<ruby>很<rt>hěn</rt></ruby>",
     "back": "very",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "太": {
     "front": "<ruby>太<rt>tài</rt></ruby>",
     "back": "too (excessively)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "都": {
     "front": "<ruby>都<rt>dōu</rt></ruby>",
     "back": "all / both",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "也": {
     "front": "<ruby>也<rt>yě</rt></ruby>",
     "back": "also / too",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "和": {
     "front": "<ruby>和<rt>hé</rt></ruby>",
     "back": "and / with",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "在": {
     "front": "<ruby>在<rt>zài</rt></ruby>",
     "back": "at / in / to be at",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "adverbs"]
+    "tags": [
+      "hsk1",
+      "adverbs"
+    ]
   },
   "的": {
     "front": "<ruby>的<rt>de</rt></ruby>",
     "back": "possessive / descriptive particle (my, your, big one, etc.)",
     "created": "2026-02-15T00:00:00.000Z",
-    "tags": ["hsk1", "particles"]
+    "tags": [
+      "hsk1",
+      "particles"
+    ]
   },
   "了": {
     "front": "<ruby>了<rt>le</rt></ruby>",
     "back": "completion particle (indicates action is done or situation changed)",
     "created": "2026-02-15T00:00:00.000Z",
-    "tags": ["hsk1", "particles"]
+    "tags": [
+      "hsk1",
+      "particles"
+    ]
   },
   "吗": {
     "front": "<ruby>吗<rt>ma</rt></ruby>",
     "back": "question particle (turns statement into yes/no question)",
     "created": "2026-02-15T00:00:00.000Z",
-    "tags": ["hsk1", "particles"]
+    "tags": [
+      "hsk1",
+      "particles"
+    ]
   },
   "呢": {
     "front": "<ruby>呢<rt>ne</rt></ruby>",
     "back": "question particle (and you? / what about?)",
     "created": "2026-02-15T00:00:00.000Z",
-    "tags": ["hsk1", "particles"]
+    "tags": [
+      "hsk1",
+      "particles"
+    ]
   },
   "个": {
     "front": "<ruby>个<rt>gè</rt></ruby>",
     "back": "general measure word (most common classifier)",
     "created": "2026-02-15T00:00:00.000Z",
-    "tags": ["hsk1", "measure-words"]
+    "tags": [
+      "hsk1",
+      "measure-words"
+    ]
   },
   "岁": {
     "front": "<ruby>岁<rt>suì</rt></ruby>",
     "back": "years old (age)",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "measure-words"]
+    "tags": [
+      "hsk1",
+      "measure-words"
+    ]
   },
   "块": {
     "front": "<ruby>块<rt>kuài</rt></ruby>",
     "back": "yuan (unit of money) / piece",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "measure-words"]
+    "tags": [
+      "hsk1",
+      "measure-words"
+    ]
   },
   "些": {
     "front": "<ruby>些<rt>xiē</rt></ruby>",
     "back": "some / a few",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "measure-words"]
+    "tags": [
+      "hsk1",
+      "measure-words"
+    ]
   },
   "里": {
     "front": "<ruby>里<rt>lǐ</rt></ruby>",
     "back": "inside / in",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "position"]
+    "tags": [
+      "hsk1",
+      "position"
+    ]
   },
   "上": {
     "front": "<ruby>上<rt>shàng</rt></ruby>",
     "back": "up / on / above",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "position"]
+    "tags": [
+      "hsk1",
+      "position"
+    ]
   },
   "下": {
     "front": "<ruby>下<rt>xià</rt></ruby>",
     "back": "down / under / below",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "position"]
+    "tags": [
+      "hsk1",
+      "position"
+    ]
   },
   "前面": {
     "front": "<ruby>前<rt>qián</rt></ruby><ruby>面<rt>miàn</rt></ruby>",
     "back": "in front of / ahead",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "position"]
+    "tags": [
+      "hsk1",
+      "position"
+    ]
   },
   "后面": {
     "front": "<ruby>后<rt>hòu</rt></ruby><ruby>面<rt>miàn</rt></ruby>",
     "back": "behind / at the back",
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
-    "tags": ["hsk1", "position"]
+    "tags": [
+      "hsk1",
+      "position"
+    ]
   }
 }
