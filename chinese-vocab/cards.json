@@ -24,14 +24,27 @@
     "front": "<ruby>我<rt>wǒ</rt></ruby>"
   },
   "你": {
-    "front": "<ruby>你<rt>nǐ</rt></ruby>",
     "back": "you",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-16T04:18:27.816Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:13:27.816Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>你<rt>nǐ</rt></ruby>"
   },
   "他": {
     "front": "<ruby>他<rt>tā</rt></ruby>",
