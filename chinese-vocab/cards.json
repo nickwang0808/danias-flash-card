@@ -20,15 +20,15 @@
       "last_review": "2026-02-16T04:13:14.487Z"
     },
     "reverseState": {
-      "due": "2026-02-16T04:20:27.958Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-18T04:16:54.347Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T04:15:27.958Z"
+      "state": 2,
+      "last_review": "2026-02-16T04:16:54.347Z"
     },
     "suspended": false,
     "front": "<ruby>我<rt>wǒ</rt></ruby>"
