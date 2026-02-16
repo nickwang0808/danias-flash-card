@@ -47,24 +47,50 @@
     "front": "<ruby>你<rt>nǐ</rt></ruby>"
   },
   "他": {
-    "front": "<ruby>他<rt>tā</rt></ruby>",
     "back": "he / him",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-16T04:18:39.950Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:13:39.950Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>他<rt>tā</rt></ruby>"
   },
   "她": {
-    "front": "<ruby>她<rt>tā</rt></ruby>",
     "back": "she / her",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-16T04:23:46.371Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:13:46.371Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>她<rt>tā</rt></ruby>"
   },
   "我们": {
     "front": "<ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby>",
