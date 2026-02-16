@@ -85,7 +85,17 @@
       "state": 1,
       "last_review": "2026-02-16T04:13:39.950Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-16T04:25:56.144Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:15:56.144Z"
+    },
     "suspended": false,
     "front": "<ruby>他<rt>tā</rt></ruby>"
   },
