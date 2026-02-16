@@ -9,15 +9,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-16T04:23:14.487Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-02-20T04:17:18.194Z",
+      "stability": 4.46685806,
+      "difficulty": 5.27296793,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 4,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T04:13:14.487Z"
+      "state": 2,
+      "last_review": "2026-02-16T04:17:18.194Z"
     },
     "reverseState": {
       "due": "2026-02-18T04:16:54.347Z",
@@ -53,15 +53,15 @@
       "last_review": "2026-02-16T04:16:27.502Z"
     },
     "reverseState": {
-      "due": "2026-02-16T04:20:40.754Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-18T04:17:09.698Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-16T04:15:40.754Z"
+      "state": 2,
+      "last_review": "2026-02-16T04:17:09.698Z"
     },
     "suspended": false,
     "front": "<ruby>你<rt>nǐ</rt></ruby>"
