@@ -19,7 +19,17 @@
       "state": 1,
       "last_review": "2026-02-16T04:13:14.487Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-16T04:20:27.958Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:15:27.958Z"
+    },
     "suspended": false,
     "front": "<ruby>我<rt>wǒ</rt></ruby>"
   },
