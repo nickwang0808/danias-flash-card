@@ -1,14 +1,27 @@
 {
   "$schema": "https://raw.githubusercontent.com/nickwang0808/flash-card/master/schema/cards.schema.json",
   "我": {
-    "front": "<ruby>我<rt>wǒ</rt></ruby>",
     "back": "I / me",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-16T04:23:14.487Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-16T04:13:14.487Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>我<rt>wǒ</rt></ruby>"
   },
   "你": {
     "front": "<ruby>你<rt>nǐ</rt></ruby>",
