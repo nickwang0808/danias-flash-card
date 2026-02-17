@@ -812,15 +812,15 @@
       "last_review": "2026-02-17T18:02:01.315Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:05:41.774Z",
-      "stability": 0.14889634,
-      "difficulty": 8.86640155,
+      "due": "2026-02-17T18:09:54.753Z",
+      "stability": 0.07460131,
+      "difficulty": 9.20664699,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:00:41.774Z"
+      "last_review": "2026-02-17T18:04:54.753Z"
     },
     "suspended": false,
     "front": "<ruby>七<rt>qī</rt></ruby>"
