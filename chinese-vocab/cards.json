@@ -317,15 +317,15 @@
       "last_review": "2026-02-17T17:45:54.333Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:17:23.239Z",
+      "due": "2026-02-17T18:18:39.492Z",
       "stability": 0.01,
-      "difficulty": 9.7365379,
+      "difficulty": 9.79169145,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:12:23.239Z"
+      "last_review": "2026-02-17T18:13:39.492Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
@@ -515,15 +515,15 @@
       "last_review": "2026-02-17T18:09:37.238Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:17:35.218Z",
-      "stability": 0.03571098,
-      "difficulty": 9.32354381,
+      "due": "2026-02-17T18:18:47.081Z",
+      "stability": 0.01789222,
+      "difficulty": 9.51401095,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:12:35.218Z"
+      "last_review": "2026-02-17T18:13:47.081Z"
     },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby>"
