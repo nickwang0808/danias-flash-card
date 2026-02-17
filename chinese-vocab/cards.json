@@ -482,15 +482,15 @@
       "last_review": "2026-02-17T17:58:14.358Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:58:30.573Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
+      "due": "2026-02-17T18:08:40.011Z",
+      "stability": 0.28393202,
+      "difficulty": 7.99230136,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:48:30.573Z"
+      "last_review": "2026-02-17T17:58:40.011Z"
     },
     "suspended": false,
     "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>"
@@ -515,15 +515,15 @@
       "last_review": "2026-02-17T17:58:26.100Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:58:44.069Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
+      "due": "2026-02-17T18:08:46.485Z",
+      "stability": 0.28393202,
+      "difficulty": 7.99230136,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:48:44.069Z"
+      "last_review": "2026-02-17T17:58:46.485Z"
     },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby>"
