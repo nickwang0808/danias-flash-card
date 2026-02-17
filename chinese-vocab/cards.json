@@ -373,14 +373,27 @@
     "front": "<ruby>几<rt>jǐ</rt></ruby>"
   },
   "多少": {
-    "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>",
     "back": "how many / how much",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "question-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:36:28.190Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:35:28.190Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>"
   },
   "怎么": {
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby>",
