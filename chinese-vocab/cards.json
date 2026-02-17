@@ -317,15 +317,15 @@
       "last_review": "2026-02-17T17:45:54.333Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:08:38.247Z",
-      "stability": 0.02536703,
-      "difficulty": 9.35105013,
+      "due": "2026-02-17T18:12:15.087Z",
+      "stability": 0.01270961,
+      "difficulty": 9.53250508,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:03:38.247Z"
+      "last_review": "2026-02-17T18:07:15.087Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
@@ -482,15 +482,15 @@
       "last_review": "2026-02-17T18:02:49.780Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:08:40.011Z",
-      "stability": 0.28393202,
-      "difficulty": 7.99230136,
+      "due": "2026-02-18T18:07:22.492Z",
+      "stability": 0.39971132,
+      "difficulty": 7.97036948,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T17:58:40.011Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:07:22.492Z"
     },
     "suspended": false,
     "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>"
