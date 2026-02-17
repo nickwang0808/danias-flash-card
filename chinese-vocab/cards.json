@@ -416,15 +416,15 @@
       "last_review": "2026-02-17T17:52:56.903Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:00:06.620Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-02-17T18:04:56.366Z",
+      "stability": 0.05062991,
+      "difficulty": 9.08117226,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:55:06.620Z"
+      "last_review": "2026-02-17T17:59:56.366Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
