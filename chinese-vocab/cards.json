@@ -317,15 +317,15 @@
       "last_review": "2026-02-17T17:45:54.333Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:04:08.818Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-02-17T18:08:38.247Z",
+      "stability": 0.02536703,
+      "difficulty": 9.35105013,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:59:08.818Z"
+      "last_review": "2026-02-17T18:03:38.247Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
