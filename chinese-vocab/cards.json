@@ -273,15 +273,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:07:10.718Z",
-      "stability": 0.02536703,
-      "difficulty": 9.35105013,
+      "due": "2026-02-17T18:10:33.045Z",
+      "stability": 0.01270961,
+      "difficulty": 9.53250508,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:02:10.718Z"
+      "last_review": "2026-02-17T18:05:33.045Z"
     },
     "reverseState": {
       "due": "2026-02-17T18:10:27.526Z",
@@ -350,15 +350,15 @@
       "last_review": "2026-02-17T18:04:03.318Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:05:53.884Z",
-      "stability": 0.49814571,
-      "difficulty": 7.97395161,
+      "due": "2026-02-17T18:15:06.799Z",
+      "stability": 0.41836338,
+      "difficulty": 8.27935196,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:55:53.884Z"
+      "last_review": "2026-02-17T18:05:06.799Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
@@ -878,15 +878,15 @@
       "last_review": "2026-02-17T17:41:38.330Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:06:03.318Z",
-      "stability": 0.14889634,
-      "difficulty": 8.86640155,
+      "due": "2026-02-17T18:10:16.241Z",
+      "stability": 0.07460131,
+      "difficulty": 9.20664699,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:01:03.318Z"
+      "last_review": "2026-02-17T18:05:16.241Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
@@ -2183,15 +2183,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:06:46.261Z",
-      "stability": 0.01261998,
-      "difficulty": 9.70965665,
+      "due": "2026-02-17T18:10:25.495Z",
+      "stability": 0.01,
+      "difficulty": 9.7736176,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 11,
+      "reps": 12,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-02-17T18:01:46.261Z"
+      "last_review": "2026-02-17T18:05:25.495Z"
     },
     "reverseState": null,
     "suspended": false,
