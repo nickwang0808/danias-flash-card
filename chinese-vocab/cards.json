@@ -372,15 +372,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:07:17.480Z",
-      "stability": 0.02536703,
-      "difficulty": 9.35105013,
+      "due": "2026-02-17T18:10:46.922Z",
+      "stability": 0.01270961,
+      "difficulty": 9.53250508,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:02:17.480Z"
+      "last_review": "2026-02-17T18:05:46.922Z"
     },
     "reverseState": {
       "due": "2026-02-17T18:08:48.513Z",
