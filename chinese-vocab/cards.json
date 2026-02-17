@@ -258,14 +258,27 @@
     "front": "<ruby>那<rt>nà</rt></ruby>"
   },
   "谁": {
-    "front": "<ruby>谁<rt>shéi</rt></ruby>",
     "back": "who",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "question-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:35:13.269Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:34:13.269Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>谁<rt>shéi</rt></ruby>"
   },
   "什么": {
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>",
