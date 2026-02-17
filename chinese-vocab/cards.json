@@ -372,15 +372,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:18:10.759Z",
+      "due": "2026-02-17T18:24:27.553Z",
       "stability": 0.01,
-      "difficulty": 9.79169145,
+      "difficulty": 9.79512842,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 9,
+      "reps": 10,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:13:10.759Z"
+      "last_review": "2026-02-17T18:14:27.553Z"
     },
     "reverseState": {
       "due": "2026-02-18T18:10:31.540Z",
@@ -416,15 +416,15 @@
       "last_review": "2026-02-17T17:52:56.903Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:17:48.942Z",
+      "due": "2026-02-17T18:19:10.427Z",
       "stability": 0.01,
-      "difficulty": 9.7365379,
+      "difficulty": 9.79169145,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:12:48.942Z"
+      "last_review": "2026-02-17T18:14:10.427Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
@@ -471,15 +471,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:17:43.573Z",
-      "stability": 0.01067405,
-      "difficulty": 9.58741707,
+      "due": "2026-02-17T18:24:01.307Z",
+      "stability": 0.01,
+      "difficulty": 9.62478816,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:12:43.573Z"
+      "last_review": "2026-02-17T18:14:01.307Z"
     },
     "reverseState": {
       "due": "2026-02-18T18:07:22.492Z",
@@ -713,15 +713,15 @@
       "last_review": "2026-02-17T18:12:07.580Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:18:09.694Z",
-      "stability": 0.06265327,
-      "difficulty": 9.30727169,
+      "due": "2026-02-17T18:19:19.384Z",
+      "stability": 0.03139108,
+      "difficulty": 9.50307024,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:08:09.694Z"
+      "last_review": "2026-02-17T18:14:19.384Z"
     },
     "suspended": false,
     "front": "<ruby>四<rt>sì</rt></ruby>"
