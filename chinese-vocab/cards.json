@@ -273,15 +273,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:23:02.333Z",
-      "stability": 0.01,
-      "difficulty": 9.749137,
+      "due": "2026-02-18T18:17:52.148Z",
+      "stability": 0.01407771,
+      "difficulty": 9.84246312,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 9,
+      "scheduled_days": 1,
+      "reps": 14,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T18:13:02.333Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:17:52.148Z"
     },
     "reverseState": {
       "due": "2026-02-17T18:26:40.836Z",
@@ -350,15 +350,15 @@
       "last_review": "2026-02-17T18:07:53.558Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:22:16.924Z",
-      "stability": 0.35135888,
-      "difficulty": 8.53401913,
+      "due": "2026-02-17T18:27:26.545Z",
+      "stability": 0.14784636,
+      "difficulty": 9.12091584,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:12:16.924Z"
+      "last_review": "2026-02-17T18:17:26.545Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
@@ -471,15 +471,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:24:01.307Z",
-      "stability": 0.01,
-      "difficulty": 9.62478816,
+      "due": "2026-02-18T18:17:58.649Z",
+      "stability": 0.01407771,
+      "difficulty": 9.59534684,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T18:14:01.307Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:17:58.649Z"
     },
     "reverseState": {
       "due": "2026-02-18T18:07:22.492Z",
@@ -548,15 +548,15 @@
       "last_review": "2026-02-17T18:10:58.340Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:21:56.379Z",
-      "stability": 0.03571097,
-      "difficulty": 9.30393105,
+      "due": "2026-02-17T18:27:06.977Z",
+      "stability": 0.02999155,
+      "difficulty": 9.3883949,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:11:56.379Z"
+      "last_review": "2026-02-17T18:17:06.977Z"
     },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby><ruby>样<rt>yàng</rt></ruby>"
@@ -702,15 +702,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:22:07.580Z",
-      "stability": 0.01,
-      "difficulty": 9.68073396,
+      "due": "2026-02-18T18:17:14.307Z",
+      "stability": 0.01407771,
+      "difficulty": 9.65103529,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T18:12:07.580Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:17:14.307Z"
     },
     "reverseState": {
       "due": "2026-02-17T18:25:41.232Z",
