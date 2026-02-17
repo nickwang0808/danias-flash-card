@@ -218,15 +218,15 @@
       "last_review": "2026-02-17T17:45:23.725Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:42:37.608Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-19T17:49:40.290Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T17:37:37.608Z"
+      "state": 2,
+      "last_review": "2026-02-17T17:49:40.290Z"
     },
     "suspended": false,
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>"
@@ -251,15 +251,15 @@
       "last_review": "2026-02-17T17:45:35.949Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:42:47.125Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-19T17:49:48.816Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T17:37:47.125Z"
+      "state": 2,
+      "last_review": "2026-02-17T17:49:48.816Z"
     },
     "suspended": false,
     "front": "<ruby>这<rt>zhè</rt></ruby>"
