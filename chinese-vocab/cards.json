@@ -449,15 +449,15 @@
       "last_review": "2026-02-17T17:46:18.639Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:39:43.759Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-17T17:53:19.519Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:38:43.759Z"
+      "last_review": "2026-02-17T17:48:19.519Z"
     },
     "suspended": false,
     "front": "<ruby>几<rt>jǐ</rt></ruby>"
