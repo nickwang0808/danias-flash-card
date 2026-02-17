@@ -547,7 +547,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:36:01.300Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:40:29.605Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:39:29.605Z"
+    },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby><ruby>样<rt>yàng</rt></ruby>"
   },
@@ -570,7 +580,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:36:14.445Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:44:34.740Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:39:34.740Z"
+    },
     "suspended": false,
     "front": "<ruby>零<rt>líng</rt></ruby>"
   },
@@ -593,7 +613,17 @@
       "state": 2,
       "last_review": "2026-02-15T22:44:17.371Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:44:44.435Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:39:44.435Z"
+    },
     "suspended": false,
     "front": "<ruby>一<rt>yī</rt></ruby>"
   },
@@ -616,7 +646,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:36:21.225Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:44:51.578Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:39:51.578Z"
+    },
     "suspended": false,
     "front": "<ruby>二<rt>èr</rt></ruby>"
   },
@@ -639,7 +679,17 @@
       "state": 2,
       "last_review": "2026-02-15T22:36:52.231Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:44:59.941Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:39:59.941Z"
+    },
     "suspended": false,
     "front": "<ruby>三<rt>sān</rt></ruby>"
   },
@@ -662,7 +712,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:36:32.626Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:45:05.421Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:40:05.421Z"
+    },
     "suspended": false,
     "front": "<ruby>四<rt>sì</rt></ruby>"
   },
@@ -685,7 +745,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:36:39.290Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:41:13.628Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:40:13.628Z"
+    },
     "suspended": false,
     "front": "<ruby>五<rt>wǔ</rt></ruby>"
   },
