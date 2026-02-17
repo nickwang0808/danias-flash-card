@@ -317,15 +317,15 @@
       "last_review": "2026-02-17T17:45:54.333Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:18:39.492Z",
+      "due": "2026-02-17T18:25:08.521Z",
       "stability": 0.01,
-      "difficulty": 9.79169145,
+      "difficulty": 9.79512842,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 9,
+      "reps": 10,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:13:39.492Z"
+      "last_review": "2026-02-17T18:15:08.521Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
@@ -845,15 +845,15 @@
       "last_review": "2026-02-17T17:47:27.783Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:18:27.161Z",
-      "stability": 0.03139108,
-      "difficulty": 9.50873078,
+      "due": "2026-02-18T18:14:55.134Z",
+      "stability": 0.04419146,
+      "difficulty": 9.47982333,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 7,
+      "scheduled_days": 1,
+      "reps": 8,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-02-17T18:13:27.161Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:14:55.134Z"
     },
     "suspended": false,
     "front": "<ruby>八<rt>bā</rt></ruby>"
@@ -878,15 +878,15 @@
       "last_review": "2026-02-17T17:41:38.330Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:18:28.392Z",
-      "stability": 0.06265327,
-      "difficulty": 9.30727169,
+      "due": "2026-02-17T18:25:02.190Z",
+      "stability": 0.05261881,
+      "difficulty": 9.39118059,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:08:28.392Z"
+      "last_review": "2026-02-17T18:15:02.190Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
