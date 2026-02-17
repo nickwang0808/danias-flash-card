@@ -910,15 +910,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:01:57.451Z",
-      "stability": 0.13064926,
-      "difficulty": 9.28439487,
+      "due": "2026-02-18T18:01:14.195Z",
+      "stability": 0.18392427,
+      "difficulty": 9.25651936,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-02-17T17:56:57.451Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:01:14.195Z"
     },
     "reverseState": null,
     "suspended": false,
