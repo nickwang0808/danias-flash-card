@@ -580,14 +580,27 @@
     "front": "<ruby>五<rt>wǔ</rt></ruby>"
   },
   "六": {
-    "front": "<ruby>六<rt>liù</rt></ruby>",
     "back": "six",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "numbers"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:37:51.355Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:36:51.355Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>六<rt>liù</rt></ruby>"
   },
   "七": {
     "back": "seven",
@@ -613,14 +626,27 @@
     "front": "<ruby>七<rt>qī</rt></ruby>"
   },
   "八": {
-    "front": "<ruby>八<rt>bā</rt></ruby>",
     "back": "eight",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "numbers"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:37:57.216Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:36:57.216Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>八<rt>bā</rt></ruby>"
   },
   "九": {
     "back": "nine",
