@@ -448,7 +448,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:35:03.777Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:39:43.759Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:38:43.759Z"
+    },
     "suspended": false,
     "front": "<ruby>几<rt>jǐ</rt></ruby>"
   },
@@ -471,7 +481,17 @@
       "state": 1,
       "last_review": "2026-02-17T17:35:28.190Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:39:53.213Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:38:53.213Z"
+    },
     "suspended": false,
     "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>"
   },
