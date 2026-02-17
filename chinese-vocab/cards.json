@@ -217,7 +217,17 @@
       "state": 1,
       "last_review": "2026-02-17T02:53:14.740Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:42:37.608Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:37:37.608Z"
+    },
     "suspended": false,
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>"
   },
@@ -240,7 +250,17 @@
       "state": 1,
       "last_review": "2026-02-17T02:55:31.783Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-02-17T17:42:47.125Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:37:47.125Z"
+    },
     "suspended": false,
     "front": "<ruby>这<rt>zhè</rt></ruby>"
   },
