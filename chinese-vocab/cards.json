@@ -281,24 +281,50 @@
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
   },
   "什么": {
-    "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>",
     "back": "what",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "question-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:39:24.878Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:34:24.878Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
   },
   "哪": {
-    "front": "<ruby>哪<rt>nǎ</rt></ruby>",
     "back": "which",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "question-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:35:31.479Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:34:31.479Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>哪<rt>nǎ</rt></ruby>"
   },
   "哪儿": {
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>",
