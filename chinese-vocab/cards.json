@@ -812,15 +812,15 @@
       "last_review": "2026-02-17T18:02:01.315Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:09:54.753Z",
-      "stability": 0.07460131,
-      "difficulty": 9.20664699,
+      "due": "2026-02-17T18:18:19.897Z",
+      "stability": 0.06265327,
+      "difficulty": 9.30727169,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:04:54.753Z"
+      "last_review": "2026-02-17T18:08:19.897Z"
     },
     "suspended": false,
     "front": "<ruby>七<rt>qī</rt></ruby>"
@@ -878,15 +878,15 @@
       "last_review": "2026-02-17T17:41:38.330Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:10:16.241Z",
-      "stability": 0.07460131,
-      "difficulty": 9.20664699,
+      "due": "2026-02-17T18:18:28.392Z",
+      "stability": 0.06265327,
+      "difficulty": 9.30727169,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:05:16.241Z"
+      "last_review": "2026-02-17T18:08:28.392Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
@@ -2183,15 +2183,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:10:25.495Z",
-      "stability": 0.01,
-      "difficulty": 9.7736176,
+      "due": "2026-02-18T18:08:36.940Z",
+      "stability": 0.01407771,
+      "difficulty": 9.74349167,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 12,
+      "scheduled_days": 1,
+      "reps": 13,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-02-17T18:05:25.495Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:08:36.940Z"
     },
     "reverseState": null,
     "suspended": false,
