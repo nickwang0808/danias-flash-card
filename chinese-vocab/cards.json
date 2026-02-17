@@ -212,14 +212,27 @@
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>"
   },
   "这": {
-    "front": "<ruby>这<rt>zhè</rt></ruby>",
     "back": "this",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T03:05:31.783Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T02:55:31.783Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>这<rt>zhè</rt></ruby>"
   },
   "那": {
     "front": "<ruby>那<rt>nà</rt></ruby>",
