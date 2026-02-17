@@ -416,15 +416,15 @@
       "last_review": "2026-02-17T17:52:56.903Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:04:56.366Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-02-17T18:09:14.499Z",
+      "stability": 0.02536703,
+      "difficulty": 9.35105013,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:59:56.366Z"
+      "last_review": "2026-02-17T18:04:14.499Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
@@ -449,15 +449,15 @@
       "last_review": "2026-02-17T18:02:31.430Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:05:14.966Z",
-      "stability": 0.16938679,
-      "difficulty": 8.37011594,
+      "due": "2026-02-17T18:14:24.250Z",
+      "stability": 0.14225803,
+      "difficulty": 8.60970538,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:55:14.966Z"
+      "last_review": "2026-02-17T18:04:24.250Z"
     },
     "suspended": false,
     "front": "<ruby>几<rt>jǐ</rt></ruby>"
