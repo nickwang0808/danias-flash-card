@@ -327,14 +327,27 @@
     "front": "<ruby>哪<rt>nǎ</rt></ruby>"
   },
   "哪儿": {
-    "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>",
     "back": "where",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "question-words"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T17:35:43.864Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T17:34:43.864Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
   },
   "几": {
     "front": "<ruby>几<rt>jǐ</rt></ruby>",
