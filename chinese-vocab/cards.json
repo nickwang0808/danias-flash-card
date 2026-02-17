@@ -339,15 +339,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T17:39:24.878Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-17T17:53:01.070Z",
+      "stability": 0.59314262,
+      "difficulty": 7.60771133,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:34:24.878Z"
+      "last_review": "2026-02-17T17:48:01.070Z"
     },
     "reverseState": {
       "due": "2026-02-17T17:43:16.225Z",
@@ -416,15 +416,15 @@
       "last_review": "2026-02-17T17:46:09.535Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:39:33.738Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-17T17:53:09.405Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:38:33.738Z"
+      "last_review": "2026-02-17T17:48:09.405Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
