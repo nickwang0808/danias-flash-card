@@ -2235,15 +2235,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-17T18:01:58.276Z",
-      "stability": 0.20026678,
-      "difficulty": 8.97363514,
+      "due": "2026-02-18T18:01:29.564Z",
+      "stability": 0.28192981,
+      "difficulty": 8.94718913,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 7,
+      "scheduled_days": 1,
+      "reps": 8,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-02-17T17:51:58.276Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:01:29.564Z"
     },
     "reverseState": null,
     "suspended": false,
