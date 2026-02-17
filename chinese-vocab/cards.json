@@ -515,15 +515,15 @@
       "last_review": "2026-02-17T18:09:37.238Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:18:47.081Z",
-      "stability": 0.01789222,
-      "difficulty": 9.51401095,
+      "due": "2026-02-17T18:25:19.045Z",
+      "stability": 0.01502663,
+      "difficulty": 9.56357627,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T18:13:47.081Z"
+      "last_review": "2026-02-17T18:15:19.045Z"
     },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby>"
