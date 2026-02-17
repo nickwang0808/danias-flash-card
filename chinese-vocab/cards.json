@@ -284,15 +284,15 @@
       "last_review": "2026-02-17T17:45:02.940Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:43:00.057Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-17T17:54:59.586Z",
+      "stability": 0.59314262,
+      "difficulty": 7.60771133,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:38:00.057Z"
+      "last_review": "2026-02-17T17:49:59.586Z"
     },
     "suspended": false,
     "front": "<ruby>那<rt>nà</rt></ruby>"
@@ -350,15 +350,15 @@
       "last_review": "2026-02-17T17:48:01.070Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:43:16.225Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-02-17T17:55:07.434Z",
+      "stability": 0.59314262,
+      "difficulty": 7.60771133,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:38:16.225Z"
+      "last_review": "2026-02-17T17:50:07.434Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
