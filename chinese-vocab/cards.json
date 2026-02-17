@@ -482,15 +482,15 @@
       "last_review": "2026-02-17T17:46:26.826Z"
     },
     "reverseState": {
-      "due": "2026-02-17T17:39:53.213Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-02-17T17:58:30.573Z",
+      "stability": 0.33807815,
+      "difficulty": 7.6297166,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:38:53.213Z"
+      "last_review": "2026-02-17T17:48:30.573Z"
     },
     "suspended": false,
     "front": "<ruby>多<rt>duō</rt></ruby><ruby>少<rt>shao</rt></ruby>"
