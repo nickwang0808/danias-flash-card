@@ -166,14 +166,27 @@
     "front": "<ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby>"
   },
   "你们": {
-    "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby>",
     "back": "you (plural)",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "pronouns"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-02-17T03:02:47.989Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-02-17T02:52:47.989Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby>"
   },
   "他们": {
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>",
