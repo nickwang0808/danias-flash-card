@@ -284,15 +284,15 @@
       "last_review": "2026-02-17T17:57:46.173Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:00:41.001Z",
-      "stability": 0.29718137,
-      "difficulty": 8.36035465,
+      "due": "2026-02-17T18:10:27.526Z",
+      "stability": 0.24958521,
+      "difficulty": 8.60156564,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:55:41.001Z"
+      "last_review": "2026-02-17T18:00:27.526Z"
     },
     "suspended": false,
     "front": "<ruby>那<rt>nà</rt></ruby>"
@@ -548,15 +548,15 @@
       "last_review": "2026-02-17T17:53:39.171Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:00:28.097Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-02-17T18:05:18.791Z",
+      "stability": 0.05062991,
+      "difficulty": 9.08117226,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:55:28.097Z"
+      "last_review": "2026-02-17T18:00:18.791Z"
     },
     "suspended": false,
     "front": "<ruby>怎<rt>zěn</rt></ruby><ruby>么<rt>me</rt></ruby><ruby>样<rt>yàng</rt></ruby>"
@@ -713,15 +713,15 @@
       "last_review": "2026-02-17T17:58:56.989Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:01:17.451Z",
-      "stability": 0.29718137,
-      "difficulty": 8.36035465,
+      "due": "2026-02-17T18:05:34.859Z",
+      "stability": 0.14889634,
+      "difficulty": 8.86640155,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:56:17.451Z"
+      "last_review": "2026-02-17T18:00:34.859Z"
     },
     "suspended": false,
     "front": "<ruby>四<rt>sì</rt></ruby>"
@@ -812,15 +812,15 @@
       "last_review": "2026-02-17T17:57:39.749Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:01:31.913Z",
-      "stability": 0.29718137,
-      "difficulty": 8.36035465,
+      "due": "2026-02-17T18:05:41.774Z",
+      "stability": 0.14889634,
+      "difficulty": 8.86640155,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:56:31.913Z"
+      "last_review": "2026-02-17T18:00:41.774Z"
     },
     "suspended": false,
     "front": "<ruby>七<rt>qī</rt></ruby>"
@@ -845,15 +845,15 @@
       "last_review": "2026-02-17T17:47:27.783Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:01:41.701Z",
-      "stability": 0.29718137,
-      "difficulty": 8.36035465,
+      "due": "2026-02-17T18:10:47.706Z",
+      "stability": 0.24958521,
+      "difficulty": 8.60156564,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:56:41.701Z"
+      "last_review": "2026-02-17T18:00:47.706Z"
     },
     "suspended": false,
     "front": "<ruby>八<rt>bā</rt></ruby>"
@@ -878,15 +878,15 @@
       "last_review": "2026-02-17T17:41:38.330Z"
     },
     "reverseState": {
-      "due": "2026-02-17T18:01:51.597Z",
-      "stability": 0.29718137,
-      "difficulty": 8.36035465,
+      "due": "2026-02-17T18:06:03.318Z",
+      "stability": 0.14889634,
+      "difficulty": 8.86640155,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-02-17T17:56:51.597Z"
+      "last_review": "2026-02-17T18:01:03.318Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
@@ -1731,15 +1731,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-17T18:01:45.864Z",
-      "stability": 0.28393202,
-      "difficulty": 8.60254191,
+      "due": "2026-02-18T18:00:53.944Z",
+      "stability": 0.39971132,
+      "difficulty": 8.57780292,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 5,
+      "scheduled_days": 1,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-02-17T17:51:45.864Z"
+      "state": 2,
+      "last_review": "2026-02-17T18:00:53.944Z"
     },
     "reverseState": null,
     "suspended": false,
