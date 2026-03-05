@@ -892,14 +892,27 @@
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
   },
   "十": {
-    "front": "<ruby>十<rt>shí</rt></ruby>",
     "back": "ten",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "numbers"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:28:27.947Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:27:27.947Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>十<rt>shí</rt></ruby>"
   },
   "两": {
     "back": "two (used with measure words)",
@@ -925,34 +938,73 @@
     "front": "<ruby>两<rt>liǎng</rt></ruby>"
   },
   "年": {
-    "front": "<ruby>年<rt>nián</rt></ruby>",
     "back": "year",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:28:36.840Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:27:36.840Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>年<rt>nián</rt></ruby>"
   },
   "月": {
-    "front": "<ruby>月<rt>yuè</rt></ruby>",
     "back": "month",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:28:43.228Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:27:43.228Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>月<rt>yuè</rt></ruby>"
   },
   "日": {
-    "front": "<ruby>日<rt>rì</rt></ruby>",
     "back": "day (formal) / date",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:28:50.758Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:27:50.758Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>日<rt>rì</rt></ruby>"
   },
   "星期": {
     "front": "<ruby>星<rt>xīng</rt></ruby><ruby>期<rt>qī</rt></ruby>",
