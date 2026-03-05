@@ -1191,54 +1191,119 @@
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
   },
   "现在": {
-    "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>",
     "back": "now",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:31:07.624Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:30:07.624Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
   },
   "点": {
-    "front": "<ruby>点<rt>diǎn</rt></ruby>",
     "back": "o'clock / point",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "time"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:31:16.903Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:30:16.903Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>点<rt>diǎn</rt></ruby>"
   },
   "爸爸": {
-    "front": "<ruby>爸<rt>bà</rt></ruby><ruby>爸<rt>ba</rt></ruby>",
     "back": "dad",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "family"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-21T00:30:23.270Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T00:30:23.270Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>爸<rt>bà</rt></ruby><ruby>爸<rt>ba</rt></ruby>"
   },
   "妈妈": {
-    "front": "<ruby>妈<rt>mā</rt></ruby><ruby>妈<rt>ma</rt></ruby>",
     "back": "mom",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "family"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-21T00:30:26.803Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-05T00:30:26.803Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>妈<rt>mā</rt></ruby><ruby>妈<rt>ma</rt></ruby>"
   },
   "儿子": {
-    "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "son",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "family"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-05T00:31:34.681Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-05T00:30:34.681Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
   "女儿": {
     "front": "<ruby>女<rt>nǚ</rt></ruby><ruby>儿<rt>ér</rt></ruby>",
