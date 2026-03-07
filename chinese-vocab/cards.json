@@ -339,15 +339,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-18T18:07:53.558Z",
-      "stability": 0.10502158,
-      "difficulty": 9.17912912,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 6,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-17T18:07:53.558Z"
+      "due": "2026-03-07T06:46:40.214Z",
+      "stability": 0.07460131,
+      "difficulty": 9.41691235,
+      "elapsed_days": 18,
+      "scheduled_days": 0,
+      "reps": 7,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-07T06:41:40.214Z"
     },
     "reverseState": {
       "due": "2026-02-18T18:20:10.584Z",
@@ -383,15 +383,15 @@
       "last_review": "2026-02-17T18:20:17.105Z"
     },
     "reverseState": {
-      "due": "2026-02-18T18:10:31.540Z",
-      "stability": 0.01789222,
-      "difficulty": 9.50348826,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-02-17T18:10:31.540Z"
+      "due": "2026-03-07T06:46:53.953Z",
+      "stability": 0.01270961,
+      "difficulty": 9.63499831,
+      "elapsed_days": 18,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-07T06:41:53.953Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby>"
@@ -2811,15 +2811,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-18T18:08:36.940Z",
-      "stability": 0.01407771,
-      "difficulty": 9.74349167,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 13,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-02-17T18:08:36.940Z"
+      "due": "2026-03-07T06:46:47.141Z",
+      "stability": 0.01,
+      "difficulty": 9.79636689,
+      "elapsed_days": 18,
+      "scheduled_days": 0,
+      "reps": 14,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-07T06:41:47.141Z"
     },
     "reverseState": null,
     "suspended": false,
