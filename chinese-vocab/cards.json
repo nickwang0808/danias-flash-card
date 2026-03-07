@@ -910,7 +910,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:27:27.947Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:38:53.799Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:33:53.799Z"
+    },
     "suspended": false,
     "front": "<ruby>十<rt>shí</rt></ruby>"
   },
@@ -933,7 +943,17 @@
       "state": 2,
       "last_review": "2026-02-17T18:01:14.195Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:35:02.596Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:02.596Z"
+    },
     "suspended": false,
     "front": "<ruby>两<rt>liǎng</rt></ruby>"
   },
@@ -956,7 +976,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:27:36.840Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:35:08.005Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:08.005Z"
+    },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
   },
@@ -979,7 +1009,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:27:43.228Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:35:14.307Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:14.307Z"
+    },
     "suspended": false,
     "front": "<ruby>月<rt>yuè</rt></ruby>"
   },
@@ -1002,7 +1042,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:27:50.758Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:35:22.681Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:22.681Z"
+    },
     "suspended": false,
     "front": "<ruby>日<rt>rì</rt></ruby>"
   },
@@ -1025,7 +1075,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:28:02.653Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:35:30.661Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:30.661Z"
+    },
     "suspended": false,
     "front": "<ruby>星<rt>xīng</rt></ruby><ruby>期<rt>qī</rt></ruby>"
   },
@@ -1536,24 +1596,50 @@
     "front": "<ruby>医<rt>yī</rt></ruby><ruby>生<rt>shēng</rt></ruby>"
   },
   "学校": {
-    "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>",
     "back": "school",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:34:35.879Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:33:35.879Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>"
   },
   "医院": {
-    "front": "<ruby>医<rt>yī</rt></ruby><ruby>院<rt>yuàn</rt></ruby>",
     "back": "hospital",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:34:45.702Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:33:45.702Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>医<rt>yī</rt></ruby><ruby>院<rt>yuàn</rt></ruby>"
   },
   "商店": {
     "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>",
