@@ -185,15 +185,15 @@
       "last_review": "2026-02-17T17:56:01.845Z"
     },
     "reverseState": {
-      "due": "2026-02-19T17:49:25.843Z",
-      "stability": 1.66658995,
-      "difficulty": 6.47329177,
-      "elapsed_days": 0,
-      "scheduled_days": 2,
-      "reps": 2,
+      "due": "2026-03-13T06:45:17.812Z",
+      "stability": 6.37922973,
+      "difficulty": 7.0279821,
+      "elapsed_days": 18,
+      "scheduled_days": 6,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-17T17:49:25.843Z"
+      "last_review": "2026-03-07T06:45:17.812Z"
     },
     "suspended": false,
     "front": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby>"
