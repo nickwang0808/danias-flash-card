@@ -284,15 +284,15 @@
       "last_review": "2026-03-07T06:42:52.075Z"
     },
     "reverseState": {
-      "due": "2026-02-18T18:19:22.033Z",
-      "stability": 0.12416749,
-      "difficulty": 9.239565,
-      "elapsed_days": 0,
+      "due": "2026-03-08T06:43:37.719Z",
+      "stability": 0.52984203,
+      "difficulty": 9.33472135,
+      "elapsed_days": 18,
       "scheduled_days": 1,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-17T18:19:22.033Z"
+      "last_review": "2026-03-07T06:43:37.719Z"
     },
     "suspended": false,
     "front": "<ruby>那<rt>nà</rt></ruby>"
@@ -438,15 +438,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-02-18T18:19:10.727Z",
-      "stability": 0.01407771,
-      "difficulty": 9.6769825,
-      "elapsed_days": 0,
+      "due": "2026-03-08T06:43:30.650Z",
+      "stability": 0.06831338,
+      "difficulty": 9.69947495,
+      "elapsed_days": 18,
       "scheduled_days": 1,
-      "reps": 10,
+      "reps": 11,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-02-17T18:19:10.727Z"
+      "last_review": "2026-03-07T06:43:30.650Z"
     },
     "reverseState": {
       "due": "2026-03-07T06:47:22.574Z",
