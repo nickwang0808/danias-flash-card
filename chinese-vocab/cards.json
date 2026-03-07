@@ -1834,7 +1834,17 @@
       "state": 1,
       "last_review": "2026-03-07T06:33:35.879Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:38:26.991Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:37:26.991Z"
+    },
     "suspended": false,
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>"
   },
