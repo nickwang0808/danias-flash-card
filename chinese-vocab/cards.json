@@ -2863,15 +2863,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": false,
     "state": {
-      "due": "2026-02-18T18:01:29.564Z",
-      "stability": 0.28192981,
-      "difficulty": 8.94718913,
-      "elapsed_days": 0,
+      "due": "2026-03-08T06:40:58.689Z",
+      "stability": 1.12061923,
+      "difficulty": 9.09091503,
+      "elapsed_days": 18,
       "scheduled_days": 1,
-      "reps": 8,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-02-17T18:01:29.564Z"
+      "last_review": "2026-03-07T06:40:58.689Z"
     },
     "reverseState": null,
     "suspended": false,
