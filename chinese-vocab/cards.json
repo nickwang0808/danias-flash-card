@@ -1174,7 +1174,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:28:23.978Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:07.918Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:07.918Z"
+    },
     "suspended": false,
     "front": "<ruby>昨<rt>zuó</rt></ruby><ruby>天<rt>tiān</rt></ruby>"
   },
@@ -1197,7 +1207,17 @@
       "state": 2,
       "last_review": "2026-02-17T17:44:47.042Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:15.253Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:15.253Z"
+    },
     "suspended": false,
     "front": "<ruby>上<rt>shàng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
@@ -1220,7 +1240,17 @@
       "state": 2,
       "last_review": "2026-02-17T17:44:23.474Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:20.431Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:20.431Z"
+    },
     "suspended": false,
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
@@ -1243,7 +1273,17 @@
       "state": 2,
       "last_review": "2026-02-17T17:44:55.947Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:25.794Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:25.794Z"
+    },
     "suspended": false,
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
   },
@@ -1266,7 +1306,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:29:14.314Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:33.246Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:33.246Z"
+    },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
   },
@@ -1289,7 +1339,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:30:07.624Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:39.359Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:39.359Z"
+    },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
   },
@@ -1312,7 +1372,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:30:16.903Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:36:43.748Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:35:43.748Z"
+    },
     "suspended": false,
     "front": "<ruby>点<rt>diǎn</rt></ruby>"
   },
@@ -1335,7 +1405,17 @@
       "state": 2,
       "last_review": "2026-03-05T00:30:23.270Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T06:35:48.478Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T06:35:48.478Z"
+    },
     "suspended": false,
     "front": "<ruby>爸<rt>bà</rt></ruby><ruby>爸<rt>ba</rt></ruby>"
   },
@@ -1358,7 +1438,17 @@
       "state": 2,
       "last_review": "2026-03-05T00:30:26.803Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-23T06:35:53.402Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T06:35:53.402Z"
+    },
     "suspended": false,
     "front": "<ruby>妈<rt>mā</rt></ruby><ruby>妈<rt>ma</rt></ruby>"
   },
@@ -1381,7 +1471,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:30:34.681Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:37:01.078Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:36:01.078Z"
+    },
     "suspended": false,
     "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
