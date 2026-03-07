@@ -977,15 +977,15 @@
       "last_review": "2026-03-07T07:10:21.167Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:15:33.576Z",
+      "due": "2026-03-07T07:22:18.880Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.7365379,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:10:33.576Z"
+      "last_review": "2026-03-07T07:17:18.880Z"
     },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
@@ -1010,15 +1010,15 @@
       "last_review": "2026-03-07T07:07:42.555Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:15:39.099Z",
+      "due": "2026-03-07T07:27:24.249Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.68073396,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:10:39.099Z"
+      "last_review": "2026-03-07T07:17:24.249Z"
     },
     "suspended": false,
     "front": "<ruby>月<rt>yuè</rt></ruby>"
@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-07T07:08:39.327Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:16:00.520Z",
+      "due": "2026-03-07T07:27:31.162Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.68073396,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:11:00.520Z"
+      "last_review": "2026-03-07T07:17:31.162Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
@@ -1329,15 +1329,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T07:15:26.305Z",
+      "due": "2026-03-07T07:22:11.505Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.7365379,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:10:26.305Z"
+      "last_review": "2026-03-07T07:17:11.505Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:16:06.224Z",
