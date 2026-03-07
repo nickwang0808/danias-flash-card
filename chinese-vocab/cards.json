@@ -570,15 +570,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:25.112Z",
-      "stability": 0.20168903,
-      "difficulty": 8.67152654,
+      "due": "2026-03-07T07:04:50.578Z",
+      "stability": 0.10105196,
+      "difficulty": 9.07562093,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T06:53:25.112Z"
+      "last_review": "2026-03-07T06:59:50.578Z"
     },
     "reverseState": {
       "due": "2026-03-13T06:45:49.154Z",
@@ -746,15 +746,15 @@
       "last_review": "2026-03-07T06:54:46.837Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:58:32.599Z",
-      "stability": 0.20168903,
-      "difficulty": 8.67152654,
+      "due": "2026-03-07T07:04:58.171Z",
+      "stability": 0.10105196,
+      "difficulty": 9.07562093,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T06:53:32.599Z"
+      "last_review": "2026-03-07T06:59:58.171Z"
     },
     "suspended": false,
     "front": "<ruby>五<rt>wǔ</rt></ruby>"
@@ -999,15 +999,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:02.643Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
-      "elapsed_days": 2,
+      "due": "2026-03-07T07:09:35.391Z",
+      "stability": 0.28393202,
+      "difficulty": 7.99230136,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:48:02.643Z"
+      "last_review": "2026-03-07T06:59:35.391Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:02:57.557Z",
@@ -1032,15 +1032,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:08.406Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-08T06:59:41.404Z",
+      "stability": 0.47593669,
+      "difficulty": 7.60945261,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:48:08.406Z"
+      "state": 2,
+      "last_review": "2026-03-07T06:59:41.404Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:03:03.609Z",
@@ -1065,15 +1065,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:19.646Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-08T06:59:45.909Z",
+      "stability": 0.47593669,
+      "difficulty": 7.60945261,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:48:19.646Z"
+      "state": 2,
+      "last_review": "2026-03-07T06:59:45.909Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:03:11.793Z",
@@ -1098,15 +1098,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:57.638Z",
-      "stability": 0.99424621,
-      "difficulty": 7.04050155,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-08T07:00:09.960Z",
+      "stability": 1.39967119,
+      "difficulty": 7.02294795,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:48:57.638Z"
+      "state": 2,
+      "last_review": "2026-03-07T07:00:09.960Z"
     },
     "reverseState": {
       "due": "2026-03-09T06:52:51.607Z",
@@ -1461,15 +1461,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:58:47.480Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
-      "elapsed_days": 2,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-08T07:00:03.152Z",
+      "stability": 0.47593669,
+      "difficulty": 7.60945261,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:48:47.480Z"
+      "state": 2,
+      "last_review": "2026-03-07T07:00:03.152Z"
     },
     "reverseState": {
       "due": "2026-03-08T06:51:27.401Z",
@@ -1835,15 +1835,15 @@
       "last_review": "2026-03-07T06:49:52.217Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:57:34.753Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-08T06:59:27.744Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:52:34.753Z"
+      "state": 2,
+      "last_review": "2026-03-07T06:59:27.744Z"
     },
     "suspended": false,
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>"
