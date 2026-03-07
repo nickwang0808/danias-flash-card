@@ -977,15 +977,15 @@
       "last_review": "2026-03-07T07:19:54.077Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:22:18.880Z",
+      "due": "2026-03-07T07:30:12.793Z",
       "stability": 0.01,
-      "difficulty": 9.7365379,
+      "difficulty": 9.749137,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:17:18.880Z"
+      "last_review": "2026-03-07T07:20:12.793Z"
     },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
@@ -1340,15 +1340,15 @@
       "last_review": "2026-03-07T07:20:00.720Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:22:43.225Z",
+      "due": "2026-03-07T07:30:18.347Z",
       "stability": 0.01,
-      "difficulty": 9.7365379,
+      "difficulty": 9.749137,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:17:43.225Z"
+      "last_review": "2026-03-07T07:20:18.347Z"
     },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
