@@ -273,15 +273,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T06:47:52.075Z",
+      "due": "2026-03-07T07:00:53.694Z",
       "stability": 0.01,
-      "difficulty": 9.86291129,
-      "elapsed_days": 18,
+      "difficulty": 9.87665981,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 15,
+      "reps": 16,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-07T06:42:52.075Z"
+      "last_review": "2026-03-07T06:55:53.694Z"
     },
     "reverseState": {
       "due": "2026-03-08T06:43:37.719Z",
