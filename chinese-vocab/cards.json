@@ -1208,15 +1208,15 @@
       "last_review": "2026-03-07T06:53:17.114Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:55:40.357Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:03:22.511Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:50:40.357Z"
+      "last_review": "2026-03-07T06:58:22.511Z"
     },
     "suspended": false,
     "front": "<ruby>上<rt>shàng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -1241,15 +1241,15 @@
       "last_review": "2026-03-07T06:53:09.443Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:55:51.532Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:08:32.171Z",
+      "stability": 0.16938679,
+      "difficulty": 8.37011594,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:50:51.532Z"
+      "last_review": "2026-03-07T06:58:32.171Z"
     },
     "suspended": false,
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -1274,15 +1274,15 @@
       "last_review": "2026-03-07T06:38:40.910Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:55:57.729Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:03:38.673Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:50:57.729Z"
+      "last_review": "2026-03-07T06:58:38.673Z"
     },
     "suspended": false,
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-07T06:57:09.654Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:08.623Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:03:44.698Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:51:08.623Z"
+      "last_review": "2026-03-07T06:58:44.698Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
@@ -1340,15 +1340,15 @@
       "last_review": "2026-03-07T06:57:15.107Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:14.661Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:03:49.664Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:51:14.661Z"
+      "last_review": "2026-03-07T06:58:49.664Z"
     },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
@@ -1373,15 +1373,15 @@
       "last_review": "2026-03-07T06:57:21.798Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:21.227Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:03:53.460Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:51:21.227Z"
+      "last_review": "2026-03-07T06:58:53.460Z"
     },
     "suspended": false,
     "front": "<ruby>点<rt>diǎn</rt></ruby>"
@@ -1505,15 +1505,15 @@
       "last_review": "2026-03-07T06:49:15.364Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:43.104Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-08T06:59:00.472Z",
+      "stability": 0.28393201,
+      "difficulty": 8.06044885,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:51:43.104Z"
+      "state": 2,
+      "last_review": "2026-03-07T06:59:00.472Z"
     },
     "suspended": false,
     "front": "<ruby>女<rt>nǚ</rt></ruby><ruby>儿<rt>ér</rt></ruby>"
@@ -1538,15 +1538,15 @@
       "last_review": "2026-03-07T06:57:26.280Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:49.580Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:04:08.466Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:51:49.580Z"
+      "last_review": "2026-03-07T06:59:08.466Z"
     },
     "suspended": false,
     "front": "<ruby>家<rt>jiā</rt></ruby>"
@@ -1571,15 +1571,15 @@
       "last_review": "2026-03-07T06:57:33.207Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:56:54.235Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:04:14.528Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:51:54.235Z"
+      "last_review": "2026-03-07T06:59:14.528Z"
     },
     "suspended": false,
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
@@ -1604,15 +1604,15 @@
       "last_review": "2026-03-07T06:57:39.181Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:57:02.567Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-07T07:04:20.940Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:52:02.567Z"
+      "last_review": "2026-03-07T06:59:20.940Z"
     },
     "suspended": false,
     "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>"
