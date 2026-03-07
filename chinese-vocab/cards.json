@@ -1108,7 +1108,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:28:09.648Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:39:42.175Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:42.175Z"
+    },
     "suspended": false,
     "front": "<ruby>今<rt>jīn</rt></ruby><ruby>天<rt>tiān</rt></ruby>"
   },
@@ -1131,7 +1141,17 @@
       "state": 1,
       "last_review": "2026-03-05T00:28:17.962Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-07T06:44:48.009Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:34:48.009Z"
+    },
     "suspended": false,
     "front": "<ruby>明<rt>míng</rt></ruby><ruby>天<rt>tiān</rt></ruby>"
   },
