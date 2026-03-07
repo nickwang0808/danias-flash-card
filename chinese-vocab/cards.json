@@ -1571,15 +1571,15 @@
       "last_review": "2026-03-07T07:02:42.915Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:16:18.949Z",
+      "due": "2026-03-07T07:23:08.218Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.7365379,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:11:18.949Z"
+      "last_review": "2026-03-07T07:18:08.218Z"
     },
     "suspended": false,
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
