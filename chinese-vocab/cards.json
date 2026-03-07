@@ -1010,15 +1010,15 @@
       "last_review": "2026-03-07T07:19:01.956Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:27:24.249Z",
-      "stability": 0.01,
-      "difficulty": 9.68073396,
+      "due": "2026-03-08T07:22:49.982Z",
+      "stability": 0.01407771,
+      "difficulty": 9.65103529,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T07:17:24.249Z"
+      "state": 2,
+      "last_review": "2026-03-07T07:22:49.982Z"
     },
     "suspended": false,
     "front": "<ruby>月<rt>yuè</rt></ruby>"
@@ -1329,15 +1329,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T07:26:45.164Z",
+      "due": "2026-03-07T07:27:35.719Z",
       "stability": 0.01,
-      "difficulty": 9.82877447,
+      "difficulty": 9.85370759,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 10,
+      "reps": 11,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:21:45.164Z"
+      "last_review": "2026-03-07T07:22:35.719Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:30:18.347Z",
@@ -1571,15 +1571,15 @@
       "last_review": "2026-03-07T07:02:42.915Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:26:58.977Z",
+      "due": "2026-03-07T07:27:43.282Z",
       "stability": 0.01,
-      "difficulty": 9.82877447,
+      "difficulty": 9.85370759,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 10,
+      "reps": 11,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:21:58.977Z"
+      "last_review": "2026-03-07T07:22:43.282Z"
     },
     "suspended": false,
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
