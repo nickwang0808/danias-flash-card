@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-07T06:48:27.217Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:36:33.246Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T06:56:08.623Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:35:33.246Z"
+      "last_review": "2026-03-07T06:51:08.623Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
@@ -1340,15 +1340,15 @@
       "last_review": "2026-03-07T06:48:34.706Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:36:39.359Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T06:56:14.661Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:35:39.359Z"
+      "last_review": "2026-03-07T06:51:14.661Z"
     },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
@@ -1373,15 +1373,15 @@
       "last_review": "2026-03-07T06:48:40.213Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:36:43.748Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-07T06:56:21.227Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T06:35:43.748Z"
+      "last_review": "2026-03-07T06:51:21.227Z"
     },
     "suspended": false,
     "front": "<ruby>点<rt>diǎn</rt></ruby>"
@@ -1472,15 +1472,15 @@
       "last_review": "2026-03-07T06:48:47.480Z"
     },
     "reverseState": {
-      "due": "2026-03-07T06:37:01.078Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-08T06:51:27.401Z",
+      "stability": 0.5666983,
+      "difficulty": 7.17663617,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 1,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T06:36:01.078Z"
+      "state": 2,
+      "last_review": "2026-03-07T06:51:27.401Z"
     },
     "suspended": false,
     "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>"
