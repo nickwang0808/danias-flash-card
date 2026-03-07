@@ -1076,15 +1076,15 @@
       "last_review": "2026-03-07T06:59:45.909Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:08:15.977Z",
-      "stability": 0.05062991,
-      "difficulty": 9.08117226,
+      "due": "2026-03-08T07:06:26.729Z",
+      "stability": 0.07127533,
+      "difficulty": 9.05423157,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 4,
+      "scheduled_days": 1,
+      "reps": 5,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-07T07:03:15.977Z"
+      "state": 2,
+      "last_review": "2026-03-07T07:06:26.729Z"
     },
     "suspended": false,
     "front": "<ruby>星<rt>xīng</rt></ruby><ruby>期<rt>qī</rt></ruby>"
