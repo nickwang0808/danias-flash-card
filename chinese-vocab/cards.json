@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-07T07:08:39.327Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:27:31.162Z",
+      "due": "2026-03-07T07:33:36.654Z",
       "stability": 0.01,
-      "difficulty": 9.68073396,
+      "difficulty": 9.763841,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 10,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:17:31.162Z"
+      "last_review": "2026-03-07T07:23:36.654Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
@@ -1329,15 +1329,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T07:27:35.719Z",
+      "due": "2026-03-07T07:33:42.273Z",
       "stability": 0.01,
-      "difficulty": 9.85370759,
+      "difficulty": 9.8608216,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 11,
+      "reps": 13,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:22:35.719Z"
+      "last_review": "2026-03-07T07:23:42.273Z"
     },
     "reverseState": {
       "due": "2026-03-07T07:30:18.347Z",
@@ -1571,15 +1571,15 @@
       "last_review": "2026-03-07T07:02:42.915Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:27:43.282Z",
+      "due": "2026-03-07T07:28:28.799Z",
       "stability": 0.01,
-      "difficulty": 9.85370759,
+      "difficulty": 9.87047161,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 11,
+      "reps": 12,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:22:43.282Z"
+      "last_review": "2026-03-07T07:23:28.799Z"
     },
     "suspended": false,
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
@@ -2811,15 +2811,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-07T07:28:27.285Z",
+      "due": "2026-03-07T07:28:47.378Z",
       "stability": 0.01,
-      "difficulty": 9.88114936,
+      "difficulty": 9.88892234,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 21,
+      "reps": 22,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-07T07:18:27.285Z"
+      "last_review": "2026-03-07T07:23:47.378Z"
     },
     "reverseState": null,
     "suspended": false,
