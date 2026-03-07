@@ -1373,15 +1373,15 @@
       "last_review": "2026-03-07T07:05:47.416Z"
     },
     "reverseState": {
-      "due": "2026-03-07T07:16:12.921Z",
+      "due": "2026-03-07T07:22:56.764Z",
       "stability": 0.01,
-      "difficulty": 9.65450804,
+      "difficulty": 9.7365379,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-07T07:11:12.921Z"
+      "last_review": "2026-03-07T07:17:56.764Z"
     },
     "suspended": false,
     "front": "<ruby>点<rt>diǎn</rt></ruby>"
