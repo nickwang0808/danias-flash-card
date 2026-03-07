@@ -1329,44 +1329,96 @@
     "front": "<ruby>女<rt>nǚ</rt></ruby><ruby>儿<rt>ér</rt></ruby>"
   },
   "家": {
-    "front": "<ruby>家<rt>jiā</rt></ruby>",
     "back": "home / family",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "family"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:33:19.012Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:32:19.012Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>家<rt>jiā</rt></ruby>"
   },
   "先生": {
-    "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>",
     "back": "Mr. / sir / husband",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:33:28.009Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:32:28.009Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
   },
   "小姐": {
-    "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>",
     "back": "Miss / young lady",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:33:37.974Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:32:37.974Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>"
   },
   "人": {
-    "front": "<ruby>人<rt>rén</rt></ruby>",
     "back": "person / people",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-23T06:32:44.189Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T06:32:44.189Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>人<rt>rén</rt></ruby>"
   },
   "朋友": {
     "front": "<ruby>朋<rt>péng</rt></ruby><ruby>友<rt>you</rt></ruby>",
