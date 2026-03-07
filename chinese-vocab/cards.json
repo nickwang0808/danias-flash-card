@@ -1421,54 +1421,119 @@
     "front": "<ruby>人<rt>rén</rt></ruby>"
   },
   "朋友": {
-    "front": "<ruby>朋<rt>péng</rt></ruby><ruby>友<rt>you</rt></ruby>",
     "back": "friend",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:33:55.930Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:32:55.930Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>朋<rt>péng</rt></ruby><ruby>友<rt>you</rt></ruby>"
   },
   "同学": {
-    "front": "<ruby>同<rt>tóng</rt></ruby><ruby>学<rt>xué</rt></ruby>",
     "back": "classmate",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:38:05.140Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:33:05.140Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>同<rt>tóng</rt></ruby><ruby>学<rt>xué</rt></ruby>"
   },
   "老师": {
-    "front": "<ruby>老<rt>lǎo</rt></ruby><ruby>师<rt>shī</rt></ruby>",
     "back": "teacher",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-23T06:33:09.246Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T06:33:09.246Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>老<rt>lǎo</rt></ruby><ruby>师<rt>shī</rt></ruby>"
   },
   "学生": {
-    "front": "<ruby>学<rt>xué</rt></ruby><ruby>生<rt>shēng</rt></ruby>",
     "back": "student",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-23T06:33:17.702Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-07T06:33:17.702Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>学<rt>xué</rt></ruby><ruby>生<rt>shēng</rt></ruby>"
   },
   "医生": {
-    "front": "<ruby>医<rt>yī</rt></ruby><ruby>生<rt>shēng</rt></ruby>",
     "back": "doctor",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "people"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-07T06:43:25.804Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-07T06:33:25.804Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>医<rt>yī</rt></ruby><ruby>生<rt>shēng</rt></ruby>"
   },
   "学校": {
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>",
