@@ -1867,29 +1867,65 @@
       "state": 2,
       "last_review": "2026-03-07T07:04:29.103Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T20:28:42.432Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:23:42.432Z"
+    },
     "suspended": false,
     "front": "<ruby>医<rt>yī</rt></ruby><ruby>院<rt>yuàn</rt></ruby>"
   },
   "商店": {
-    "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>",
     "back": "store / shop",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-08T20:24:12.263Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:23:12.263Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
   },
   "饭店": {
-    "front": "<ruby>饭<rt>fàn</rt></ruby><ruby>店<rt>diàn</rt></ruby>",
     "back": "restaurant / hotel",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-08T20:24:21.669Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:23:21.669Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>饭<rt>fàn</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
   },
   "中国": {
     "back": "China",
@@ -1915,24 +1951,50 @@
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>国<rt>guó</rt></ruby>"
   },
   "北京": {
-    "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>",
     "back": "Beijing",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "places"
-    ]
-  },
-  "水": {
-    "front": "<ruby>水<rt>shuǐ</rt></ruby>",
-    "back": "water",
+    ],
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-08T20:33:28.263Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:23:28.263Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>"
+  },
+  "水": {
+    "back": "water",
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-24T20:23:33.600Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T20:23:33.600Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>水<rt>shuǐ</rt></ruby>"
   },
   "茶": {
     "front": "<ruby>茶<rt>chá</rt></ruby>",
