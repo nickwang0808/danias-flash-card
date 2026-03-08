@@ -1900,7 +1900,17 @@
       "state": 1,
       "last_review": "2026-03-08T20:23:12.263Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T20:28:53.391Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:23:53.391Z"
+    },
     "suspended": false,
     "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
   },
@@ -1923,7 +1933,17 @@
       "state": 1,
       "last_review": "2026-03-08T20:23:21.669Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T20:25:00.271Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:24:00.271Z"
+    },
     "suspended": false,
     "front": "<ruby>饭<rt>fàn</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
   },
@@ -1946,7 +1966,17 @@
       "state": 2,
       "last_review": "2026-03-07T06:46:16.636Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T20:29:09.656Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:24:09.656Z"
+    },
     "suspended": false,
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>国<rt>guó</rt></ruby>"
   },
@@ -1969,7 +1999,17 @@
       "state": 1,
       "last_review": "2026-03-08T20:23:28.263Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-08T20:34:15.335Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-08T20:24:15.335Z"
+    },
     "suspended": false,
     "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>"
   },
@@ -1992,7 +2032,17 @@
       "state": 2,
       "last_review": "2026-03-08T20:23:33.600Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-24T20:24:19.773Z",
+      "stability": 15.69105,
+      "difficulty": 3.22450159,
+      "elapsed_days": 0,
+      "scheduled_days": 16,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2026-03-08T20:24:19.773Z"
+    },
     "suspended": false,
     "front": "<ruby>水<rt>shuǐ</rt></ruby>"
   },
