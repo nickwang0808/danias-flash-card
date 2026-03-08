@@ -966,15 +966,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T07:19:54.077Z",
-      "stability": 0.01502663,
-      "difficulty": 9.54976747,
-      "elapsed_days": 0,
+      "due": "2026-03-09T20:35:59.782Z",
+      "stability": 0.06023002,
+      "difficulty": 9.59339291,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T07:19:54.077Z"
+      "last_review": "2026-03-08T20:35:59.782Z"
     },
     "reverseState": {
       "due": "2026-03-08T07:24:42.528Z",
