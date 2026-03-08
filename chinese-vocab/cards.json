@@ -350,15 +350,15 @@
       "last_review": "2026-03-08T20:36:30.988Z"
     },
     "reverseState": {
-      "due": "2026-03-08T20:36:13.700Z",
-      "stability": 0.01859508,
-      "difficulty": 9.76818244,
-      "elapsed_days": 1,
+      "due": "2026-03-08T20:54:09.849Z",
+      "stability": 0.01561692,
+      "difficulty": 9.77552473,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 14,
+      "reps": 15,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-08T20:31:13.700Z"
+      "last_review": "2026-03-08T20:44:09.849Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
