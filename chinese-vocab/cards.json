@@ -1274,15 +1274,15 @@
       "last_review": "2026-03-08T20:24:32.234Z"
     },
     "reverseState": {
-      "due": "2026-03-08T07:10:53.624Z",
-      "stability": 0.01789222,
-      "difficulty": 9.50348826,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-07T07:10:53.624Z"
+      "due": "2026-03-08T20:39:45.853Z",
+      "stability": 0.01270961,
+      "difficulty": 9.63499831,
+      "elapsed_days": 1,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-08T20:34:45.853Z"
     },
     "suspended": false,
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
