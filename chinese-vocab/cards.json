@@ -713,15 +713,15 @@
       "last_review": "2026-03-08T20:25:49.627Z"
     },
     "reverseState": {
-      "due": "2026-03-08T07:19:46.925Z",
-      "stability": 0.01407771,
-      "difficulty": 9.8204263,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 17,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-07T07:19:46.925Z"
+      "due": "2026-03-08T20:40:38.984Z",
+      "stability": 0.01,
+      "difficulty": 9.84809462,
+      "elapsed_days": 1,
+      "scheduled_days": 0,
+      "reps": 18,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-08T20:35:38.984Z"
     },
     "suspended": false,
     "front": "<ruby>四<rt>sì</rt></ruby>"
