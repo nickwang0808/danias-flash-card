@@ -867,26 +867,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T07:05:24.109Z",
-      "stability": 0.66472366,
-      "difficulty": 9.04320542,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
+      "due": "2026-03-10T20:33:02.511Z",
+      "stability": 1.64929012,
+      "difficulty": 9.01643938,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T07:05:24.109Z"
+      "last_review": "2026-03-08T20:33:02.511Z"
     },
     "reverseState": {
-      "due": "2026-03-08T07:05:15.520Z",
-      "stability": 0.01407771,
-      "difficulty": 9.77499737,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 14,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-07T07:05:15.520Z"
+      "due": "2026-03-08T20:37:56.848Z",
+      "stability": 0.01,
+      "difficulty": 9.81755004,
+      "elapsed_days": 1,
+      "scheduled_days": 0,
+      "reps": 15,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-08T20:32:56.848Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
