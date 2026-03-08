@@ -977,15 +977,15 @@
       "last_review": "2026-03-08T20:35:59.782Z"
     },
     "reverseState": {
-      "due": "2026-03-08T20:42:29.506Z",
+      "due": "2026-03-08T20:52:59.847Z",
       "stability": 0.01,
-      "difficulty": 9.85253142,
-      "elapsed_days": 1,
+      "difficulty": 9.8696808,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 14,
+      "reps": 15,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-08T20:37:29.506Z"
+      "last_review": "2026-03-08T20:47:59.847Z"
     },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
