@@ -845,15 +845,15 @@
       "last_review": "2026-03-07T06:39:10.250Z"
     },
     "reverseState": {
-      "due": "2026-03-08T20:36:01.135Z",
-      "stability": 0.01572783,
-      "difficulty": 9.75561164,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 12,
+      "due": "2026-03-09T20:43:57.318Z",
+      "stability": 0.02214119,
+      "difficulty": 9.72556853,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 13,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-08T20:31:01.135Z"
+      "state": 2,
+      "last_review": "2026-03-08T20:43:57.318Z"
     },
     "suspended": false,
     "front": "<ruby>八<rt>bā</rt></ruby>"
@@ -2000,15 +2000,15 @@
       "last_review": "2026-03-08T20:43:36.213Z"
     },
     "reverseState": {
-      "due": "2026-03-08T20:34:15.335Z",
-      "stability": 3.173,
-      "difficulty": 5.28243442,
+      "due": "2026-03-15T20:43:50.264Z",
+      "stability": 7.48750228,
+      "difficulty": 4.51098561,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 7,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T20:24:15.335Z"
+      "state": 2,
+      "last_review": "2026-03-08T20:43:50.264Z"
     },
     "suspended": false,
     "front": "<ruby>北<rt>běi</rt></ruby><ruby>京<rt>jīng</rt></ruby>"
@@ -3102,15 +3102,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T20:33:33.197Z",
-      "stability": 0.20168903,
-      "difficulty": 9.31491377,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 8,
+      "due": "2026-03-09T20:43:46.485Z",
+      "stability": 0.28393201,
+      "difficulty": 9.28689787,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 3,
-      "state": 3,
-      "last_review": "2026-03-08T20:28:33.197Z"
+      "state": 2,
+      "last_review": "2026-03-08T20:43:46.485Z"
     },
     "reverseState": null,
     "suspended": false,
