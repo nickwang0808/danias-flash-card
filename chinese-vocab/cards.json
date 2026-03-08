@@ -1527,15 +1527,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T07:02:33.238Z",
-      "stability": 0.14225804,
-      "difficulty": 8.65468874,
-      "elapsed_days": 0,
+      "due": "2026-03-09T20:31:35.452Z",
+      "stability": 0.36235447,
+      "difficulty": 8.84700487,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T07:02:33.238Z"
+      "last_review": "2026-03-08T20:31:35.452Z"
     },
     "reverseState": {
       "due": "2026-03-08T07:03:53.174Z",
