@@ -383,15 +383,15 @@
       "last_review": "2026-03-07T07:01:45.836Z"
     },
     "reverseState": {
-      "due": "2026-03-08T07:00:50.252Z",
-      "stability": 0.01407771,
-      "difficulty": 9.69352532,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 10,
+      "due": "2026-03-10T20:30:49.597Z",
+      "stability": 0.18251277,
+      "difficulty": 9.66376781,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 11,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T07:00:50.252Z"
+      "last_review": "2026-03-08T20:30:49.597Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby>"
