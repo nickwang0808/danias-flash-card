@@ -1890,26 +1890,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T20:50:01.651Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
+      "due": "2026-03-09T20:49:38.477Z",
+      "stability": 0.47593669,
+      "difficulty": 7.60945261,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T20:40:01.651Z"
+      "state": 2,
+      "last_review": "2026-03-08T20:49:38.477Z"
     },
     "reverseState": {
-      "due": "2026-03-08T20:50:33.084Z",
-      "stability": 0.99424621,
-      "difficulty": 7.04050155,
+      "due": "2026-03-09T20:49:43.221Z",
+      "stability": 1.39967119,
+      "difficulty": 7.02294795,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-08T20:40:33.084Z"
+      "state": 2,
+      "last_review": "2026-03-08T20:49:43.221Z"
     },
     "suspended": false,
     "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
