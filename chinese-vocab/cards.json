@@ -339,15 +339,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T07:21:38.248Z",
-      "stability": 0.01859508,
-      "difficulty": 9.7026019,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 12,
+      "due": "2026-03-10T20:36:30.988Z",
+      "stability": 0.2192062,
+      "difficulty": 9.67280264,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 13,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T07:21:38.248Z"
+      "last_review": "2026-03-08T20:36:30.988Z"
     },
     "reverseState": {
       "due": "2026-03-08T20:36:13.700Z",
@@ -801,15 +801,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-08T07:21:14.494Z",
-      "stability": 0.01407771,
-      "difficulty": 9.83553557,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 24,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-07T07:21:14.494Z"
+      "due": "2026-03-08T20:41:24.205Z",
+      "stability": 0.01,
+      "difficulty": 9.85825348,
+      "elapsed_days": 1,
+      "scheduled_days": 0,
+      "reps": 25,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-08T20:36:24.205Z"
     },
     "reverseState": {
       "due": "2026-03-08T20:32:16.599Z",
@@ -1241,15 +1241,15 @@
       "last_review": "2026-03-08T20:34:20.846Z"
     },
     "reverseState": {
-      "due": "2026-03-08T07:21:09.896Z",
-      "stability": 0.10033936,
-      "difficulty": 9.00733094,
-      "elapsed_days": 0,
+      "due": "2026-03-09T20:36:14.205Z",
+      "stability": 0.26777672,
+      "difficulty": 9.14106607,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T07:21:09.896Z"
+      "last_review": "2026-03-08T20:36:14.205Z"
     },
     "suspended": false,
     "front": "<ruby>中<rt>zhōng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
