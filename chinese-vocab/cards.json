@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-11T18:22:34.986Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:51:40.950Z",
-      "stability": 0.01407771,
-      "difficulty": 9.8223728,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 15,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T20:51:40.950Z"
+      "due": "2026-03-11T18:28:50.590Z",
+      "stability": 0.01,
+      "difficulty": 9.84940337,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 16,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-11T18:23:50.590Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
