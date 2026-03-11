@@ -2093,14 +2093,27 @@
     "front": "<ruby>米<rt>mǐ</rt></ruby><ruby>饭<rt>fàn</rt></ruby>"
   },
   "菜": {
-    "front": "<ruby>菜<rt>cài</rt></ruby>",
     "back": "dish / vegetable",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-11T18:11:52.462Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:10:52.462Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>菜<rt>cài</rt></ruby>"
   },
   "水果": {
     "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>",
