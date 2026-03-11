@@ -1340,15 +1340,15 @@
       "last_review": "2026-03-11T18:18:35.060Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:53:19.684Z",
-      "stability": 0.01407771,
-      "difficulty": 9.85406366,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 22,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T20:53:19.684Z"
+      "due": "2026-03-11T18:30:38.977Z",
+      "stability": 0.01,
+      "difficulty": 9.87071102,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 23,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-11T18:25:38.977Z"
     },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
