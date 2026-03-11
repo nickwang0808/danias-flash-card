@@ -2065,7 +2065,17 @@
       "state": 1,
       "last_review": "2026-03-11T18:10:33.269Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T18:21:40.729Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:11:40.729Z"
+    },
     "suspended": false,
     "front": "<ruby>茶<rt>chá</rt></ruby>"
   },
@@ -2088,7 +2098,17 @@
       "state": 1,
       "last_review": "2026-03-11T18:10:40.385Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T18:21:44.187Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:11:44.187Z"
+    },
     "suspended": false,
     "front": "<ruby>米<rt>mǐ</rt></ruby><ruby>饭<rt>fàn</rt></ruby>"
   },
@@ -2111,29 +2131,65 @@
       "state": 1,
       "last_review": "2026-03-11T18:10:52.462Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T18:16:49.274Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:11:49.274Z"
+    },
     "suspended": false,
     "front": "<ruby>菜<rt>cài</rt></ruby>"
   },
   "水果": {
-    "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>",
     "back": "fruit",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-11T18:12:29.374Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:11:29.374Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
   },
   "苹果": {
-    "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>",
     "back": "apple",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-11T18:12:36.351Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:11:36.351Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
   },
   "杯子": {
     "front": "<ruby>杯<rt>bēi</rt></ruby><ruby>子<rt>zi</rt></ruby>",
