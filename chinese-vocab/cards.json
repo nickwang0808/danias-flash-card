@@ -2164,7 +2164,17 @@
       "state": 1,
       "last_review": "2026-03-11T18:11:29.374Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T18:17:03.354Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:12:03.354Z"
+    },
     "suspended": false,
     "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
   },
