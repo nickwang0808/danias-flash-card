@@ -2165,15 +2165,15 @@
       "last_review": "2026-03-11T18:30:09.026Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:35:59.234Z",
-      "stability": 0.59314262,
-      "difficulty": 7.60771133,
+      "due": "2026-03-11T18:40:55.806Z",
+      "stability": 0.29718137,
+      "difficulty": 8.36035465,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-11T18:30:59.234Z"
+      "last_review": "2026-03-11T18:35:55.806Z"
     },
     "suspended": false,
     "front": "<ruby>水<rt>shuǐ</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
