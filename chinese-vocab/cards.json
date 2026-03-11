@@ -438,15 +438,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:43:06.099Z",
-      "stability": 0.06831338,
-      "difficulty": 9.73667739,
-      "elapsed_days": 0,
+      "due": "2026-03-12T18:19:06.784Z",
+      "stability": 0.20336022,
+      "difficulty": 9.74925331,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 13,
+      "reps": 14,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T20:43:06.099Z"
+      "last_review": "2026-03-11T18:19:06.784Z"
     },
     "reverseState": {
       "due": "2026-03-09T20:46:49.679Z",
@@ -1923,26 +1923,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:40:09.359Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T20:40:09.359Z"
+      "due": "2026-03-11T18:23:45.559Z",
+      "stability": 0.40255,
+      "difficulty": 8.07051715,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-11T18:18:45.559Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:40:20.151Z",
-      "stability": 0.5666983,
-      "difficulty": 7.17663617,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2026-03-16T18:18:49.811Z",
+      "stability": 4.94844083,
+      "difficulty": 7.15845635,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:40:20.151Z"
+      "last_review": "2026-03-11T18:18:49.811Z"
     },
     "suspended": false,
     "front": "<ruby>饭<rt>fàn</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
@@ -3090,15 +3090,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": false,
     "state": {
-      "due": "2026-03-09T20:41:08.045Z",
-      "stability": 0.65580172,
-      "difficulty": 9.32938852,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 11,
+      "due": "2026-03-14T18:18:58.847Z",
+      "stability": 2.63003118,
+      "difficulty": 9.30130604,
+      "elapsed_days": 3,
+      "scheduled_days": 3,
+      "reps": 12,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-08T20:41:08.045Z"
+      "last_review": "2026-03-11T18:18:58.847Z"
     },
     "reverseState": null,
     "suspended": false,
