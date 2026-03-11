@@ -933,15 +933,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:29:09.260Z",
-      "stability": 0.34021634,
-      "difficulty": 9.50204514,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 12,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-08T20:29:09.260Z"
+      "due": "2026-03-11T18:20:22.527Z",
+      "stability": 0.24167019,
+      "difficulty": 9.63402802,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 13,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-11T18:15:22.527Z"
     },
     "reverseState": {
       "due": "2026-03-09T20:33:40.511Z",
@@ -1032,15 +1032,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:30:10.250Z",
-      "stability": 0.8651612,
-      "difficulty": 7.97540363,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 4,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T20:30:10.250Z"
+      "due": "2026-03-11T18:20:30.895Z",
+      "stability": 0.56106714,
+      "difficulty": 8.60757607,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-11T18:15:30.895Z"
     },
     "reverseState": {
       "due": "2026-03-09T20:51:26.753Z",
@@ -1175,15 +1175,15 @@
       "last_review": "2026-03-07T06:49:07.847Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:27:46.129Z",
-      "stability": 1.0097477,
-      "difficulty": 7.61448676,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T18:14:55.184Z",
+      "stability": 5.29012538,
+      "difficulty": 7.59429283,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:27:46.129Z"
+      "last_review": "2026-03-11T18:14:55.184Z"
     },
     "suspended": false,
     "front": "<ruby>昨<rt>zuó</rt></ruby><ruby>天<rt>tiān</rt></ruby>"
@@ -1472,15 +1472,15 @@
       "last_review": "2026-03-08T20:30:25.524Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:27:59.909Z",
-      "stability": 1.0097477,
-      "difficulty": 7.61448676,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T18:15:02.778Z",
+      "stability": 5.29012538,
+      "difficulty": 7.59429283,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:27:59.909Z"
+      "last_review": "2026-03-11T18:15:02.778Z"
     },
     "suspended": false,
     "front": "<ruby>儿<rt>ér</rt></ruby><ruby>子<rt>zi</rt></ruby>"
@@ -1670,15 +1670,15 @@
       "last_review": "2026-03-08T20:30:37.058Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:28:09.440Z",
-      "stability": 1.0097477,
-      "difficulty": 7.61448676,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T18:15:09.832Z",
+      "stability": 5.29012538,
+      "difficulty": 7.59429283,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:28:09.440Z"
+      "last_review": "2026-03-11T18:15:09.832Z"
     },
     "suspended": false,
     "front": "<ruby>朋<rt>péng</rt></ruby><ruby>友<rt>you</rt></ruby>"
@@ -1703,15 +1703,15 @@
       "last_review": "2026-03-11T18:13:22.842Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:28:21.279Z",
-      "stability": 1.0097477,
-      "difficulty": 7.61448676,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-16T18:15:14.010Z",
+      "stability": 5.29012538,
+      "difficulty": 7.59429283,
+      "elapsed_days": 3,
+      "scheduled_days": 5,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:28:21.279Z"
+      "last_review": "2026-03-11T18:15:14.010Z"
     },
     "suspended": false,
     "front": "<ruby>同<rt>tóng</rt></ruby><ruby>学<rt>xué</rt></ruby>"
