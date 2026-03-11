@@ -2132,15 +2132,15 @@
       "last_review": "2026-03-11T18:29:51.316Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:16:49.274Z",
-      "stability": 1.18385,
-      "difficulty": 6.48830527,
+      "due": "2026-03-13T18:30:47.730Z",
+      "stability": 1.66658995,
+      "difficulty": 6.47329177,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "scheduled_days": 2,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-11T18:11:49.274Z"
+      "state": 2,
+      "last_review": "2026-03-11T18:30:47.730Z"
     },
     "suspended": false,
     "front": "<ruby>菜<rt>cài</rt></ruby>"
