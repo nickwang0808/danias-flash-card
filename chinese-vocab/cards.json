@@ -350,15 +350,15 @@
       "last_review": "2026-03-08T20:36:30.988Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:51:18.957Z",
-      "stability": 0.02198505,
-      "difficulty": 9.74539002,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 16,
+      "due": "2026-03-13T18:22:50.379Z",
+      "stability": 0.29135566,
+      "difficulty": 9.71539393,
+      "elapsed_days": 3,
+      "scheduled_days": 2,
+      "reps": 17,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-08T20:51:18.957Z"
+      "last_review": "2026-03-11T18:22:50.379Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
@@ -977,15 +977,15 @@
       "last_review": "2026-03-11T18:17:15.225Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:50:41.792Z",
-      "stability": 0.01407771,
-      "difficulty": 9.83911298,
-      "elapsed_days": 0,
+      "due": "2026-03-12T18:22:42.112Z",
+      "stability": 0.05545675,
+      "difficulty": 9.83467228,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 16,
+      "reps": 17,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T20:50:41.792Z"
+      "last_review": "2026-03-11T18:22:42.112Z"
     },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
@@ -1296,15 +1296,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:50:10.377Z",
-      "stability": 0.01789222,
-      "difficulty": 9.61224842,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 9,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T20:50:10.377Z"
+      "due": "2026-03-11T18:27:34.986Z",
+      "stability": 0.01270961,
+      "difficulty": 9.70812424,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 10,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-11T18:22:34.986Z"
     },
     "reverseState": {
       "due": "2026-03-09T20:51:40.950Z",
