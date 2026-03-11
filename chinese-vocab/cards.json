@@ -1329,15 +1329,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T18:23:35.060Z",
-      "stability": 0.03428921,
-      "difficulty": 9.86619966,
-      "elapsed_days": 3,
+      "due": "2026-03-11T18:37:50.390Z",
+      "stability": 0.01717987,
+      "difficulty": 9.87887077,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 18,
+      "reps": 19,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-11T18:18:35.060Z"
+      "last_review": "2026-03-11T18:32:50.390Z"
     },
     "reverseState": {
       "due": "2026-03-11T18:30:38.977Z",
