@@ -2047,24 +2047,50 @@
     "front": "<ruby>水<rt>shuǐ</rt></ruby>"
   },
   "茶": {
-    "front": "<ruby>茶<rt>chá</rt></ruby>",
     "back": "tea",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-11T18:20:33.269Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:10:33.269Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>茶<rt>chá</rt></ruby>"
   },
   "米饭": {
-    "front": "<ruby>米<rt>mǐ</rt></ruby><ruby>饭<rt>fàn</rt></ruby>",
     "back": "cooked rice",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-11T18:20:40.385Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:10:40.385Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>米<rt>mǐ</rt></ruby><ruby>饭<rt>fàn</rt></ruby>"
   },
   "菜": {
     "front": "<ruby>菜<rt>cài</rt></ruby>",
