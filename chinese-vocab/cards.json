@@ -317,15 +317,15 @@
       "last_review": "2026-03-07T06:38:54.690Z"
     },
     "reverseState": {
-      "due": "2026-03-09T06:43:06.892Z",
-      "stability": 0.23278805,
-      "difficulty": 9.73481769,
-      "elapsed_days": 18,
+      "due": "2026-03-13T18:12:52.464Z",
+      "stability": 1.48073109,
+      "difficulty": 9.70487024,
+      "elapsed_days": 4,
       "scheduled_days": 2,
-      "reps": 12,
+      "reps": 13,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T06:43:06.892Z"
+      "last_review": "2026-03-11T18:12:52.464Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
@@ -2197,7 +2197,17 @@
       "state": 1,
       "last_review": "2026-03-11T18:11:36.351Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-11T18:13:37.125Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-11T18:12:37.125Z"
+    },
     "suspended": false,
     "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
   },
@@ -2576,15 +2586,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T06:40:28.677Z",
-      "stability": 1.63536089,
-      "difficulty": 8.78289135,
-      "elapsed_days": 18,
-      "scheduled_days": 2,
-      "reps": 7,
+      "due": "2026-03-16T18:12:46.919Z",
+      "stability": 5.32006064,
+      "difficulty": 8.75732276,
+      "elapsed_days": 4,
+      "scheduled_days": 5,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-07T06:40:28.677Z"
+      "last_review": "2026-03-11T18:12:46.919Z"
     },
     "reverseState": null,
     "suspended": false,
