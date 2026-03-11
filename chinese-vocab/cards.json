@@ -1604,15 +1604,15 @@
       "last_review": "2026-03-11T18:16:49.303Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:48:35.883Z",
-      "stability": 0.01407771,
-      "difficulty": 9.79955412,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 15,
+      "due": "2026-03-13T18:21:26.020Z",
+      "stability": 0.19891179,
+      "difficulty": 9.76930888,
+      "elapsed_days": 3,
+      "scheduled_days": 2,
+      "reps": 16,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T20:48:35.883Z"
+      "last_review": "2026-03-11T18:21:26.020Z"
     },
     "suspended": false,
     "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>"
