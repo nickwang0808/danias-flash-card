@@ -1263,15 +1263,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:50:03.885Z",
-      "stability": 0.31597666,
-      "difficulty": 9.71994571,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 20,
+      "due": "2026-03-13T18:22:14.287Z",
+      "stability": 1.55950665,
+      "difficulty": 9.69006667,
+      "elapsed_days": 3,
+      "scheduled_days": 2,
+      "reps": 21,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-08T20:50:03.885Z"
+      "last_review": "2026-03-11T18:22:14.287Z"
     },
     "reverseState": {
       "due": "2026-03-13T18:20:17.188Z",
@@ -1890,26 +1890,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:49:38.477Z",
-      "stability": 0.47593669,
-      "difficulty": 7.60945261,
-      "elapsed_days": 0,
+      "due": "2026-03-12T18:22:00.195Z",
+      "stability": 1.33834673,
+      "difficulty": 7.97540363,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:49:38.477Z"
+      "last_review": "2026-03-11T18:22:00.195Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:49:43.221Z",
-      "stability": 1.39967119,
-      "difficulty": 7.02294795,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-18T18:22:05.891Z",
+      "stability": 6.58300503,
+      "difficulty": 7.0054751,
+      "elapsed_days": 3,
+      "scheduled_days": 7,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:49:43.221Z"
+      "last_review": "2026-03-11T18:22:05.891Z"
     },
     "suspended": false,
     "front": "<ruby>商<rt>shāng</rt></ruby><ruby>店<rt>diàn</rt></ruby>"
