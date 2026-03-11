@@ -405,15 +405,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-11T18:29:32.116Z",
-      "stability": 0.01067406,
-      "difficulty": 9.77151512,
-      "elapsed_days": 3,
-      "scheduled_days": 0,
-      "reps": 13,
+      "due": "2026-03-12T18:34:36.194Z",
+      "stability": 0.01502663,
+      "difficulty": 9.74139886,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 14,
       "lapses": 3,
-      "state": 3,
-      "last_review": "2026-03-11T18:24:32.116Z"
+      "state": 2,
+      "last_review": "2026-03-11T18:34:36.194Z"
     },
     "reverseState": {
       "due": "2026-03-13T18:26:46.827Z",
@@ -1010,15 +1010,15 @@
       "last_review": "2026-03-11T18:18:09.563Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:30:25.436Z",
+      "due": "2026-03-11T18:44:45.355Z",
       "stability": 0.01,
-      "difficulty": 9.80988722,
-      "elapsed_days": 3,
+      "difficulty": 9.81030151,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 14,
+      "reps": 15,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-11T18:25:25.436Z"
+      "last_review": "2026-03-11T18:34:45.355Z"
     },
     "suspended": false,
     "front": "<ruby>月<rt>yuè</rt></ruby>"
@@ -1043,15 +1043,15 @@
       "last_review": "2026-03-11T18:31:20.118Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:28:33.635Z",
-      "stability": 0.01,
-      "difficulty": 9.80256038,
-      "elapsed_days": 3,
-      "scheduled_days": 0,
-      "reps": 12,
+      "due": "2026-03-12T18:34:21.105Z",
+      "stability": 0.01407771,
+      "difficulty": 9.77230131,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 13,
       "lapses": 2,
-      "state": 3,
-      "last_review": "2026-03-11T18:23:33.635Z"
+      "state": 2,
+      "last_review": "2026-03-11T18:34:21.105Z"
     },
     "suspended": false,
     "front": "<ruby>日<rt>rì</rt></ruby>"
@@ -1307,15 +1307,15 @@
       "last_review": "2026-03-11T18:34:10.750Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:28:50.590Z",
+      "due": "2026-03-11T18:44:28.549Z",
       "stability": 0.01,
-      "difficulty": 9.84940337,
-      "elapsed_days": 3,
+      "difficulty": 9.84325322,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 16,
+      "reps": 17,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-11T18:23:50.590Z"
+      "last_review": "2026-03-11T18:34:28.549Z"
     },
     "suspended": false,
     "front": "<ruby>时<rt>shí</rt></ruby><ruby>候<rt>hou</rt></ruby>"
@@ -1340,15 +1340,15 @@
       "last_review": "2026-03-11T18:32:50.390Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:30:38.977Z",
+      "due": "2026-03-11T18:44:53.695Z",
       "stability": 0.01,
-      "difficulty": 9.87071102,
-      "elapsed_days": 3,
+      "difficulty": 9.86102124,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 23,
+      "reps": 24,
       "lapses": 2,
       "state": 3,
-      "last_review": "2026-03-11T18:25:38.977Z"
+      "last_review": "2026-03-11T18:34:53.695Z"
     },
     "suspended": false,
     "front": "<ruby>现<rt>xiàn</rt></ruby><ruby>在<rt>zài</rt></ruby>"
