@@ -845,15 +845,15 @@
       "last_review": "2026-03-07T06:39:10.250Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:43:57.318Z",
-      "stability": 0.02214119,
-      "difficulty": 9.72556853,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 13,
+      "due": "2026-03-13T18:19:37.150Z",
+      "stability": 0.29718361,
+      "difficulty": 9.69566362,
+      "elapsed_days": 3,
+      "scheduled_days": 2,
+      "reps": 14,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-08T20:43:57.318Z"
+      "last_review": "2026-03-11T18:19:37.150Z"
     },
     "suspended": false,
     "front": "<ruby>八<rt>bā</rt></ruby>"
@@ -3217,15 +3217,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:43:46.485Z",
-      "stability": 0.28393201,
-      "difficulty": 9.28689787,
-      "elapsed_days": 0,
+      "due": "2026-03-12T18:19:30.098Z",
+      "stability": 0.6549216,
+      "difficulty": 9.37419128,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 9,
+      "reps": 10,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-08T20:43:46.485Z"
+      "last_review": "2026-03-11T18:19:30.098Z"
     },
     "reverseState": null,
     "suspended": false,
