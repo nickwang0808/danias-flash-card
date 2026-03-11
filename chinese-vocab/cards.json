@@ -2198,15 +2198,15 @@
       "last_review": "2026-03-11T18:30:19.662Z"
     },
     "reverseState": {
-      "due": "2026-03-11T18:13:37.125Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-11T18:40:34.983Z",
+      "stability": 0.33807815,
+      "difficulty": 7.6297166,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-11T18:12:37.125Z"
+      "last_review": "2026-03-11T18:30:34.983Z"
     },
     "suspended": false,
     "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
