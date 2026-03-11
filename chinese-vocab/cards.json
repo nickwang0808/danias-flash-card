@@ -570,15 +570,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:32:23.288Z",
-      "stability": 0.32537782,
-      "difficulty": 9.17556771,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-08T20:32:23.288Z"
+      "due": "2026-03-11T18:21:26.115Z",
+      "stability": 0.23112976,
+      "difficulty": 9.41451781,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-11T18:16:26.115Z"
     },
     "reverseState": {
       "due": "2026-03-13T06:45:49.154Z",
@@ -1538,15 +1538,15 @@
       "last_review": "2026-03-11T18:15:41.018Z"
     },
     "reverseState": {
-      "due": "2026-03-09T20:32:13.863Z",
-      "stability": 0.36235447,
-      "difficulty": 8.84700487,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-08T20:32:13.863Z"
+      "due": "2026-03-11T18:21:18.126Z",
+      "stability": 0.25739585,
+      "difficulty": 9.19360545,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-11T18:16:18.126Z"
     },
     "suspended": false,
     "front": "<ruby>家<rt>jiā</rt></ruby>"
@@ -1857,15 +1857,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-09T20:32:40.339Z",
-      "stability": 0.51830573,
-      "difficulty": 8.59414617,
-      "elapsed_days": 1,
-      "scheduled_days": 1,
-      "reps": 5,
+      "due": "2026-03-14T18:16:35.031Z",
+      "stability": 3.21875771,
+      "difficulty": 8.5694458,
+      "elapsed_days": 3,
+      "scheduled_days": 3,
+      "reps": 6,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-08T20:32:40.339Z"
+      "last_review": "2026-03-11T18:16:35.031Z"
     },
     "reverseState": {
       "due": "2026-03-10T20:40:25.943Z",
