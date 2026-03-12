@@ -2187,26 +2187,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T18:36:57.641Z",
-      "stability": 0.47593669,
-      "difficulty": 7.60945261,
-      "elapsed_days": 0,
+      "due": "2026-03-13T23:04:01.707Z",
+      "stability": 0.8651612,
+      "difficulty": 7.97540363,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-11T18:36:57.641Z"
+      "last_review": "2026-03-12T23:04:01.707Z"
     },
     "reverseState": {
-      "due": "2026-03-12T18:37:01.032Z",
-      "stability": 0.47593669,
-      "difficulty": 7.60945261,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
+      "due": "2026-03-14T23:04:07.015Z",
+      "stability": 2.15725206,
+      "difficulty": 7.58928184,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-11T18:37:01.032Z"
+      "last_review": "2026-03-12T23:04:07.015Z"
     },
     "suspended": false,
     "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
