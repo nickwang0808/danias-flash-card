@@ -2330,15 +2330,15 @@
       "last_review": "2026-03-12T23:08:31.659Z"
     },
     "reverseState": {
-      "due": "2026-03-12T23:11:47.658Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-12T23:14:20.922Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-12T23:06:47.658Z"
+      "last_review": "2026-03-12T23:09:20.922Z"
     },
     "suspended": false,
     "front": "<ruby>桌<rt>zhuō</rt></ruby><ruby>子<rt>zi</rt></ruby>"
