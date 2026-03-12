@@ -801,15 +801,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T18:20:54.689Z",
-      "stability": 0.0558622,
-      "difficulty": 9.82518709,
-      "elapsed_days": 3,
+      "due": "2026-03-13T22:50:00.750Z",
+      "stability": 0.13349375,
+      "difficulty": 9.82305976,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 27,
+      "reps": 28,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-11T18:20:54.689Z"
+      "last_review": "2026-03-12T22:50:00.750Z"
     },
     "reverseState": {
       "due": "2026-03-12T18:24:12.992Z",
