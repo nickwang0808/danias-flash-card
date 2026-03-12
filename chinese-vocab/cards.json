@@ -2258,14 +2258,27 @@
     "front": "<ruby>书<rt>shū</rt></ruby>"
   },
   "字": {
-    "front": "<ruby>字<rt>zì</rt></ruby>",
     "back": "character / word",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-12T22:41:03.134Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:40:03.134Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>字<rt>zì</rt></ruby>"
   },
   "桌子": {
     "front": "<ruby>桌<rt>zhuō</rt></ruby><ruby>子<rt>zi</rt></ruby>",
