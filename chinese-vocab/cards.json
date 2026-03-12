@@ -449,15 +449,15 @@
       "last_review": "2026-03-12T22:49:07.842Z"
     },
     "reverseState": {
-      "due": "2026-03-12T18:20:24.963Z",
-      "stability": 0.05783686,
-      "difficulty": 9.77899097,
-      "elapsed_days": 3,
-      "scheduled_days": 1,
-      "reps": 15,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-11T18:20:24.963Z"
+      "due": "2026-03-12T22:54:38.755Z",
+      "stability": 0.04108399,
+      "difficulty": 9.82023518,
+      "elapsed_days": 1,
+      "scheduled_days": 0,
+      "reps": 16,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-12T22:49:38.755Z"
     },
     "suspended": false,
     "front": "<ruby>几<rt>jǐ</rt></ruby>"
@@ -1208,15 +1208,15 @@
       "last_review": "2026-03-11T18:28:51.855Z"
     },
     "reverseState": {
-      "due": "2026-03-12T18:19:54.922Z",
-      "stability": 0.45767304,
-      "difficulty": 9.16617075,
-      "elapsed_days": 3,
-      "scheduled_days": 1,
-      "reps": 7,
+      "due": "2026-03-14T22:49:31.607Z",
+      "stability": 1.36460585,
+      "difficulty": 9.13883907,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-11T18:19:54.922Z"
+      "last_review": "2026-03-12T22:49:31.607Z"
     },
     "suspended": false,
     "front": "<ruby>上<rt>shàng</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -3332,15 +3332,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-12T18:19:30.098Z",
-      "stability": 0.6549216,
-      "difficulty": 9.37419128,
-      "elapsed_days": 3,
+      "due": "2026-03-13T22:49:22.776Z",
+      "stability": 0.84422889,
+      "difficulty": 9.44698348,
+      "elapsed_days": 1,
       "scheduled_days": 1,
-      "reps": 10,
+      "reps": 11,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-11T18:19:30.098Z"
+      "last_review": "2026-03-12T22:49:22.776Z"
     },
     "reverseState": null,
     "suspended": false,
