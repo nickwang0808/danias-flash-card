@@ -2230,7 +2230,17 @@
       "state": 1,
       "last_review": "2026-03-12T22:39:48.669Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-12T22:55:24.306Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:45:24.306Z"
+    },
     "suspended": false,
     "front": "<ruby>杯<rt>bēi</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
@@ -2253,7 +2263,17 @@
       "state": 2,
       "last_review": "2026-03-11T18:27:10.686Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-12T22:55:29.694Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:45:29.694Z"
+    },
     "suspended": false,
     "front": "<ruby>书<rt>shū</rt></ruby>"
   },
@@ -2327,14 +2347,27 @@
     "front": "<ruby>椅<rt>yǐ</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
   "电话": {
-    "front": "<ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>",
     "back": "telephone",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-12T22:46:14.307Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:45:14.307Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>"
   },
   "电脑": {
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>",
