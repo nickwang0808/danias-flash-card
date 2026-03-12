@@ -2329,7 +2329,17 @@
       "state": 1,
       "last_review": "2026-03-12T22:40:13.352Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-12T22:46:57.643Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:45:57.643Z"
+    },
     "suspended": false,
     "front": "<ruby>桌<rt>zhuō</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
