@@ -2212,14 +2212,27 @@
     "front": "<ruby>苹<rt>píng</rt></ruby><ruby>果<rt>guǒ</rt></ruby>"
   },
   "杯子": {
-    "front": "<ruby>杯<rt>bēi</rt></ruby><ruby>子<rt>zi</rt></ruby>",
     "back": "cup / glass",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "food-drink"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-12T22:40:48.669Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-12T22:39:48.669Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>杯<rt>bēi</rt></ruby><ruby>子<rt>zi</rt></ruby>"
   },
   "书": {
     "back": "book",
