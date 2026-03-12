@@ -878,15 +878,15 @@
       "last_review": "2026-03-11T18:28:33.116Z"
     },
     "reverseState": {
-      "due": "2026-03-12T18:33:16.574Z",
-      "stability": 0.01407771,
-      "difficulty": 9.81446368,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 19,
+      "due": "2026-03-14T23:02:03.167Z",
+      "stability": 0.16692099,
+      "difficulty": 9.78414985,
+      "elapsed_days": 1,
+      "scheduled_days": 2,
+      "reps": 20,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-11T18:33:16.574Z"
+      "last_review": "2026-03-12T23:02:03.167Z"
     },
     "suspended": false,
     "front": "<ruby>九<rt>jiǔ</rt></ruby>"
