@@ -2363,15 +2363,15 @@
       "last_review": "2026-03-12T23:08:39.208Z"
     },
     "reverseState": {
-      "due": "2026-03-12T23:11:58.543Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-12T23:19:31.392Z",
+      "stability": 0.16938679,
+      "difficulty": 8.37011594,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-12T23:06:58.543Z"
+      "last_review": "2026-03-12T23:09:31.392Z"
     },
     "suspended": false,
     "front": "<ruby>椅<rt>yǐ</rt></ruby><ruby>子<rt>zi</rt></ruby>"
