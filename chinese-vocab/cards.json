@@ -2492,14 +2492,27 @@
     "front": "<ruby>钱<rt>qián</rt></ruby>"
   },
   "衣服": {
-    "front": "<ruby>衣<rt>yī</rt></ruby><ruby>服<rt>fu</rt></ruby>",
     "back": "clothes",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-14T08:37:14.124Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T08:36:14.124Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>衣<rt>yī</rt></ruby><ruby>服<rt>fu</rt></ruby>"
   },
   "东西": {
     "back": "thing / stuff",
