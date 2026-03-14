@@ -2469,14 +2469,27 @@
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
   },
   "钱": {
-    "front": "<ruby>钱<rt>qián</rt></ruby>",
     "back": "money",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-14T08:41:02.999Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T08:36:02.999Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>钱<rt>qián</rt></ruby>"
   },
   "衣服": {
     "front": "<ruby>衣<rt>yī</rt></ruby><ruby>服<rt>fu</rt></ruby>",
