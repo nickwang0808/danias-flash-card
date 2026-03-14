@@ -2395,7 +2395,17 @@
       "state": 2,
       "last_review": "2026-03-12T23:11:53.343Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-14T08:37:26.200Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-14T08:36:26.200Z"
+    },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>"
   },
