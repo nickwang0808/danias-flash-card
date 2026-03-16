@@ -2428,7 +2428,17 @@
       "state": 1,
       "last_review": "2026-03-14T08:35:22.795Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T19:47:35.220Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T19:46:35.220Z"
+    },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>"
   },
@@ -2451,7 +2461,17 @@
       "state": 1,
       "last_review": "2026-03-14T08:35:39.113Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T19:47:42.608Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T19:46:42.608Z"
+    },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>"
   },
@@ -2474,7 +2494,17 @@
       "state": 1,
       "last_review": "2026-03-14T08:35:51.728Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-16T19:47:52.117Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T19:46:52.117Z"
+    },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
   },
@@ -2571,14 +2601,27 @@
     "front": "<ruby>猫<rt>māo</rt></ruby>"
   },
   "狗": {
-    "front": "<ruby>狗<rt>gǒu</rt></ruby>",
     "back": "dog",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-16T19:47:27.137Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T19:46:27.137Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>狗<rt>gǒu</rt></ruby>"
   },
   "名字": {
     "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>",
