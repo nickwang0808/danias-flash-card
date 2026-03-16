@@ -2429,15 +2429,15 @@
       "last_review": "2026-03-16T19:57:09.748Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:47:35.220Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-16T20:08:50.172Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T19:46:35.220Z"
+      "last_review": "2026-03-16T20:03:50.172Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>"
@@ -2462,15 +2462,15 @@
       "last_review": "2026-03-16T19:57:17.620Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:47:42.608Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-16T20:08:57.764Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T19:46:42.608Z"
+      "last_review": "2026-03-16T20:03:57.764Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>"
@@ -2495,15 +2495,15 @@
       "last_review": "2026-03-16T19:57:26.137Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:47:52.117Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-16T20:09:05.568Z",
+      "stability": 0.20168903,
+      "difficulty": 8.08279701,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T19:46:52.117Z"
+      "last_review": "2026-03-16T20:04:05.568Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
@@ -2528,15 +2528,15 @@
       "last_review": "2026-03-16T19:57:47.482Z"
     },
     "reverseState": {
-      "due": "2026-03-16T19:48:57.016Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
+      "due": "2026-03-16T20:14:11.585Z",
+      "stability": 0.33807815,
+      "difficulty": 7.6297166,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T19:47:57.016Z"
+      "last_review": "2026-03-16T20:04:11.585Z"
     },
     "suspended": false,
     "front": "<ruby>钱<rt>qián</rt></ruby>"
