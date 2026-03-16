@@ -2319,15 +2319,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T20:12:48.112Z",
-      "stability": 0.04252109,
-      "difficulty": 9.43118674,
+      "due": "2026-03-16T20:18:59.280Z",
+      "stability": 0.03571097,
+      "difficulty": 9.49451084,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 7,
+      "reps": 8,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-16T20:07:48.112Z"
+      "last_review": "2026-03-16T20:08:59.280Z"
     },
     "reverseState": {
       "due": "2026-03-17T20:05:49.077Z",
@@ -2396,15 +2396,15 @@
       "last_review": "2026-03-16T19:56:49.044Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:11:50.432Z",
-      "stability": 0.1693868,
-      "difficulty": 8.3751501,
+      "due": "2026-03-16T20:18:27.591Z",
+      "stability": 0.14225804,
+      "difficulty": 8.61390327,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:06:50.432Z"
+      "last_review": "2026-03-16T20:08:27.591Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>话<rt>huà</rt></ruby>"
@@ -2418,7 +2418,18 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T20:12:57.944Z",
+      "due": "2026-03-16T20:14:06.943Z",
+      "stability": 0.02536703,
+      "difficulty": 9.35105013,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 5,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T20:09:06.943Z"
+    },
+    "reverseState": {
+      "due": "2026-03-16T20:13:33.913Z",
       "stability": 0.05062991,
       "difficulty": 9.08117226,
       "elapsed_days": 0,
@@ -2426,18 +2437,7 @@
       "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:07:57.944Z"
-    },
-    "reverseState": {
-      "due": "2026-03-16T20:12:02.193Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
-      "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T20:07:02.193Z"
+      "last_review": "2026-03-16T20:08:33.913Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>"
@@ -2451,26 +2451,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T20:11:42.888Z",
-      "stability": 0.1693868,
-      "difficulty": 8.3751501,
+      "due": "2026-03-17T20:08:21.147Z",
+      "stability": 0.23845786,
+      "difficulty": 8.35145712,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 3,
+      "scheduled_days": 1,
+      "reps": 4,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-16T20:06:42.888Z"
+      "state": 2,
+      "last_review": "2026-03-16T20:08:21.147Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:12:10.547Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-03-16T20:13:42.136Z",
+      "stability": 0.05062991,
+      "difficulty": 9.08117226,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:07:10.547Z"
+      "last_review": "2026-03-16T20:08:42.136Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>"
@@ -2495,15 +2495,15 @@
       "last_review": "2026-03-16T20:08:04.011Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:12:15.333Z",
-      "stability": 0.10105196,
-      "difficulty": 8.67978303,
+      "due": "2026-03-16T20:18:51.148Z",
+      "stability": 0.08486762,
+      "difficulty": 8.8679305,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 3,
+      "reps": 4,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:07:15.333Z"
+      "last_review": "2026-03-16T20:08:51.148Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
