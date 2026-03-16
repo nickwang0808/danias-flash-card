@@ -218,15 +218,15 @@
       "last_review": "2026-03-07T06:47:24.392Z"
     },
     "reverseState": {
-      "due": "2026-03-13T06:45:31.871Z",
-      "stability": 6.37922973,
-      "difficulty": 7.0279821,
-      "elapsed_days": 18,
-      "scheduled_days": 6,
-      "reps": 3,
+      "due": "2026-03-26T19:50:00.891Z",
+      "stability": 9.58766665,
+      "difficulty": 7.49052714,
+      "elapsed_days": 9,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T06:45:31.871Z"
+      "last_review": "2026-03-16T19:50:00.891Z"
     },
     "suspended": false,
     "front": "<ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby>"
@@ -317,15 +317,15 @@
       "last_review": "2026-03-11T18:26:20.599Z"
     },
     "reverseState": {
-      "due": "2026-03-13T18:12:52.464Z",
-      "stability": 1.48073109,
-      "difficulty": 9.70487024,
-      "elapsed_days": 4,
-      "scheduled_days": 2,
-      "reps": 13,
+      "due": "2026-03-20T19:50:18.089Z",
+      "stability": 4.00637326,
+      "difficulty": 9.67506054,
+      "elapsed_days": 5,
+      "scheduled_days": 4,
+      "reps": 14,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-11T18:12:52.464Z"
+      "last_review": "2026-03-16T19:50:18.089Z"
     },
     "suspended": false,
     "front": "<ruby>谁<rt>shéi</rt></ruby>"
@@ -581,15 +581,15 @@
       "last_review": "2026-03-12T23:00:56.158Z"
     },
     "reverseState": {
-      "due": "2026-03-13T06:45:49.154Z",
-      "stability": 6.37922973,
-      "difficulty": 7.0279821,
-      "elapsed_days": 18,
-      "scheduled_days": 6,
-      "reps": 3,
+      "due": "2026-03-26T19:50:06.025Z",
+      "stability": 9.58766665,
+      "difficulty": 7.49052714,
+      "elapsed_days": 9,
+      "scheduled_days": 10,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T06:45:49.154Z"
+      "last_review": "2026-03-16T19:50:06.025Z"
     },
     "suspended": false,
     "front": "<ruby>零<rt>líng</rt></ruby>"
@@ -680,15 +680,15 @@
       "last_review": "2026-03-07T06:46:59.483Z"
     },
     "reverseState": {
-      "due": "2026-03-13T06:46:02.305Z",
-      "stability": 6.37922973,
-      "difficulty": 7.0279821,
-      "elapsed_days": 18,
-      "scheduled_days": 6,
-      "reps": 3,
+      "due": "2026-04-05T19:50:10.843Z",
+      "stability": 20.23856847,
+      "difficulty": 7.01048609,
+      "elapsed_days": 9,
+      "scheduled_days": 20,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-07T06:46:02.305Z"
+      "last_review": "2026-03-16T19:50:10.843Z"
     },
     "suspended": false,
     "front": "<ruby>三<rt>sān</rt></ruby>"
@@ -966,15 +966,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T18:17:15.225Z",
-      "stability": 0.66104747,
-      "difficulty": 9.56409601,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 10,
+      "due": "2026-03-19T19:50:28.588Z",
+      "stability": 3.01318528,
+      "difficulty": 9.53493388,
+      "elapsed_days": 5,
+      "scheduled_days": 3,
+      "reps": 11,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-11T18:17:15.225Z"
+      "last_review": "2026-03-16T19:50:28.588Z"
     },
     "reverseState": {
       "due": "2026-03-13T22:50:24.871Z",
@@ -1076,15 +1076,15 @@
       "last_review": "2026-03-11T18:27:59.871Z"
     },
     "reverseState": {
-      "due": "2026-03-13T18:17:06.340Z",
-      "stability": 1.73977268,
-      "difficulty": 9.15277946,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 7,
+      "due": "2026-03-21T19:50:23.332Z",
+      "stability": 5.41645187,
+      "difficulty": 9.12550938,
+      "elapsed_days": 5,
+      "scheduled_days": 5,
+      "reps": 8,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-11T18:17:06.340Z"
+      "last_review": "2026-03-16T19:50:23.332Z"
     },
     "suspended": false,
     "front": "<ruby>星<rt>xīng</rt></ruby><ruby>期<rt>qī</rt></ruby>"
