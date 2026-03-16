@@ -2548,14 +2548,27 @@
     "front": "<ruby>东<rt>dōng</rt></ruby><ruby>西<rt>xi</rt></ruby>"
   },
   "猫": {
-    "front": "<ruby>猫<rt>māo</rt></ruby>",
     "back": "cat",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-16T19:47:16.255Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-16T19:46:16.255Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>猫<rt>māo</rt></ruby>"
   },
   "狗": {
     "front": "<ruby>狗<rt>gǒu</rt></ruby>",
