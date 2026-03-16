@@ -845,15 +845,15 @@
       "last_review": "2026-03-11T18:26:24.907Z"
     },
     "reverseState": {
-      "due": "2026-03-13T18:19:37.150Z",
-      "stability": 0.29718361,
-      "difficulty": 9.69566362,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 14,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-11T18:19:37.150Z"
+      "due": "2026-03-16T19:55:55.573Z",
+      "stability": 0.21110221,
+      "difficulty": 9.76420925,
+      "elapsed_days": 5,
+      "scheduled_days": 0,
+      "reps": 15,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-16T19:50:55.573Z"
     },
     "suspended": false,
     "front": "<ruby>八<rt>bā</rt></ruby>"
@@ -1230,15 +1230,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T18:20:06.702Z",
-      "stability": 1.88061931,
-      "difficulty": 9.49630449,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 15,
+      "due": "2026-03-21T19:51:07.732Z",
+      "stability": 4.89859899,
+      "difficulty": 9.4674542,
+      "elapsed_days": 5,
+      "scheduled_days": 5,
+      "reps": 16,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-11T18:20:06.702Z"
+      "last_review": "2026-03-16T19:51:07.732Z"
     },
     "reverseState": {
       "due": "2026-03-13T23:07:49.687Z",
@@ -1362,15 +1362,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-13T18:20:01.190Z",
-      "stability": 0.87449078,
-      "difficulty": 9.27686795,
-      "elapsed_days": 3,
-      "scheduled_days": 2,
-      "reps": 8,
+      "due": "2026-03-20T19:51:02.451Z",
+      "stability": 3.91657067,
+      "difficulty": 9.24902706,
+      "elapsed_days": 5,
+      "scheduled_days": 4,
+      "reps": 9,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-11T18:20:01.190Z"
+      "last_review": "2026-03-16T19:51:02.451Z"
     },
     "reverseState": {
       "due": "2026-03-13T23:08:01.546Z",
