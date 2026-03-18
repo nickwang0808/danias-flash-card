@@ -2692,7 +2692,17 @@
       "state": 1,
       "last_review": "2026-03-18T02:22:32.500Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-18T02:28:18.380Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:18.380Z"
+    },
     "suspended": false,
     "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>"
   },
@@ -2715,7 +2725,17 @@
       "state": 1,
       "last_review": "2026-03-18T02:22:44.281Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-18T02:33:24.197Z",
+      "stability": 3.173,
+      "difficulty": 5.28243442,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:24.197Z"
+    },
     "suspended": false,
     "front": "<ruby>汉<rt>hàn</rt></ruby><ruby>语<rt>yǔ</rt></ruby>"
   },
@@ -2738,29 +2758,85 @@
       "state": 1,
       "last_review": "2026-03-18T02:22:53.594Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-18T02:24:29.764Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:29.764Z"
+    },
     "suspended": false,
     "front": "<ruby>天<rt>tiān</rt></ruby><ruby>气<rt>qì</rt></ruby>"
   },
   "飞机": {
-    "front": "<ruby>飞<rt>fēi</rt></ruby><ruby>机<rt>jī</rt></ruby>",
     "back": "airplane",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "transport"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-18T02:24:04.569Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:04.569Z"
+    },
+    "reverseState": {
+      "due": "2026-03-18T02:24:38.554Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:38.554Z"
+    },
+    "suspended": false,
+    "front": "<ruby>飞<rt>fēi</rt></ruby><ruby>机<rt>jī</rt></ruby>"
   },
   "出租车": {
-    "front": "<ruby>出<rt>chū</rt></ruby><ruby>租<rt>zū</rt></ruby><ruby>车<rt>chē</rt></ruby>",
     "back": "taxi",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "transport"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-18T02:24:14.161Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:14.161Z"
+    },
+    "reverseState": {
+      "due": "2026-03-18T02:24:46.000Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:23:46.000Z"
+    },
+    "suspended": false,
+    "front": "<ruby>出<rt>chū</rt></ruby><ruby>租<rt>zū</rt></ruby><ruby>车<rt>chē</rt></ruby>"
   },
   "车站": {
     "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>",
