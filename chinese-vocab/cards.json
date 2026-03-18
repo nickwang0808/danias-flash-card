@@ -2674,14 +2674,27 @@
     "front": "<ruby>狗<rt>gǒu</rt></ruby>"
   },
   "名字": {
-    "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>",
     "back": "name",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-18T02:27:32.500Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:22:32.500Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>"
   },
   "汉语": {
     "front": "<ruby>汉<rt>hàn</rt></ruby><ruby>语<rt>yǔ</rt></ruby>",
