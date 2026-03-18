@@ -2697,24 +2697,50 @@
     "front": "<ruby>名<rt>míng</rt></ruby><ruby>字<rt>zi</rt></ruby>"
   },
   "汉语": {
-    "front": "<ruby>汉<rt>hàn</rt></ruby><ruby>语<rt>yǔ</rt></ruby>",
     "back": "Chinese language",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-18T02:23:44.281Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:22:44.281Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>汉<rt>hàn</rt></ruby><ruby>语<rt>yǔ</rt></ruby>"
   },
   "天气": {
-    "front": "<ruby>天<rt>tiān</rt></ruby><ruby>气<rt>qì</rt></ruby>",
     "back": "weather",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "objects"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-18T02:23:53.594Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-18T02:22:53.594Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>天<rt>tiān</rt></ruby><ruby>气<rt>qì</rt></ruby>"
   },
   "飞机": {
     "front": "<ruby>飞<rt>fēi</rt></ruby><ruby>机<rt>jī</rt></ruby>",
