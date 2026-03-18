@@ -2319,15 +2319,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-16T20:18:59.280Z",
-      "stability": 0.03571097,
-      "difficulty": 9.49451084,
-      "elapsed_days": 0,
+      "due": "2026-03-18T02:29:13.374Z",
+      "stability": 0.01789221,
+      "difficulty": 9.62896226,
+      "elapsed_days": 2,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-16T20:08:59.280Z"
+      "last_review": "2026-03-18T02:24:13.374Z"
     },
     "reverseState": {
       "due": "2026-03-17T20:05:49.077Z",
@@ -2462,15 +2462,15 @@
       "last_review": "2026-03-16T20:08:21.147Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:20:06.645Z",
-      "stability": 0.02130428,
-      "difficulty": 9.42768654,
-      "elapsed_days": 0,
+      "due": "2026-03-18T02:29:20.587Z",
+      "stability": 0.01067405,
+      "difficulty": 9.5840323,
+      "elapsed_days": 2,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:10:06.645Z"
+      "last_review": "2026-03-18T02:24:20.587Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>"
@@ -2495,15 +2495,15 @@
       "last_review": "2026-03-16T20:10:35.499Z"
     },
     "reverseState": {
-      "due": "2026-03-16T20:18:51.148Z",
-      "stability": 0.08486762,
-      "difficulty": 8.8679305,
-      "elapsed_days": 0,
+      "due": "2026-03-18T02:29:06.745Z",
+      "stability": 0.0425211,
+      "difficulty": 9.207675,
+      "elapsed_days": 2,
       "scheduled_days": 0,
-      "reps": 4,
+      "reps": 5,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-16T20:08:51.148Z"
+      "last_review": "2026-03-18T02:24:06.745Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
