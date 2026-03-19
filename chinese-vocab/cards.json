@@ -3027,24 +3027,50 @@
     "front": "<ruby>说<rt>shuō</rt></ruby>"
   },
   "读": {
-    "front": "<ruby>读<rt>dú</rt></ruby>",
     "back": "to read (aloud)",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:16:07.803Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:15:07.803Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>读<rt>dú</rt></ruby>"
   },
   "写": {
-    "front": "<ruby>写<rt>xiě</rt></ruby>",
     "back": "to write",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:16:16.263Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:15:16.263Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>写<rt>xiě</rt></ruby>"
   },
   "想": {
     "front": "<ruby>想<rt>xiǎng</rt></ruby>",
