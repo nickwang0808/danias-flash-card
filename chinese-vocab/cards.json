@@ -801,15 +801,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T19:54:00.858Z",
-      "stability": 0.33608332,
-      "difficulty": 9.82128582,
-      "elapsed_days": 4,
+      "due": "2026-03-20T03:40:00.690Z",
+      "stability": 0.60672186,
+      "difficulty": 9.81980657,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 29,
+      "reps": 30,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-16T19:54:00.858Z"
+      "last_review": "2026-03-19T03:40:00.690Z"
     },
     "reverseState": {
       "due": "2026-03-17T20:07:28.133Z",
@@ -1373,15 +1373,15 @@
       "last_review": "2026-03-16T19:51:02.451Z"
     },
     "reverseState": {
-      "due": "2026-03-17T19:55:47.339Z",
-      "stability": 0.16534844,
-      "difficulty": 9.79633405,
-      "elapsed_days": 4,
+      "due": "2026-03-20T03:40:08.423Z",
+      "stability": 0.37336245,
+      "difficulty": 9.79899979,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 16,
+      "reps": 17,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-16T19:55:47.339Z"
+      "last_review": "2026-03-19T03:40:08.423Z"
     },
     "suspended": false,
     "front": "<ruby>点<rt>diǎn</rt></ruby>"
@@ -1835,15 +1835,15 @@
       "last_review": "2026-03-11T18:27:06.155Z"
     },
     "reverseState": {
-      "due": "2026-03-17T18:27:54.767Z",
-      "stability": 5.56261614,
-      "difficulty": 8.01606046,
-      "elapsed_days": 3,
-      "scheduled_days": 6,
-      "reps": 5,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-11T18:27:54.767Z"
+      "due": "2026-03-19T03:44:52.386Z",
+      "stability": 1.56312869,
+      "difficulty": 8.63491207,
+      "elapsed_days": 8,
+      "scheduled_days": 0,
+      "reps": 6,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:39:52.386Z"
     },
     "suspended": false,
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>"
@@ -2583,15 +2583,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T19:56:00.633Z",
-      "stability": 0.0567675,
-      "difficulty": 9.83548488,
-      "elapsed_days": 4,
+      "due": "2026-03-20T03:40:16.820Z",
+      "stability": 0.16769642,
+      "difficulty": 9.83164688,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 34,
+      "reps": 35,
       "lapses": 5,
       "state": 2,
-      "last_review": "2026-03-16T19:56:00.633Z"
+      "last_review": "2026-03-19T03:40:16.820Z"
     },
     "reverseState": {
       "due": "2026-03-17T20:04:31.886Z",
