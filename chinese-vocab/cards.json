@@ -3073,14 +3073,27 @@
     "front": "<ruby>写<rt>xiě</rt></ruby>"
   },
   "想": {
-    "front": "<ruby>想<rt>xiǎng</rt></ruby>",
     "back": "to think / to want / to miss",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:16:27.346Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:15:27.346Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>想<rt>xiǎng</rt></ruby>"
   },
   "去": {
     "front": "<ruby>去<rt>qù</rt></ruby>",
