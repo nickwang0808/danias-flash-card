@@ -350,15 +350,15 @@
       "last_review": "2026-03-16T20:00:19.106Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:51:44.088Z",
-      "stability": 1.83456051,
-      "difficulty": 9.68553583,
-      "elapsed_days": 5,
-      "scheduled_days": 2,
-      "reps": 18,
+      "due": "2026-03-23T03:46:35.742Z",
+      "stability": 3.57112675,
+      "difficulty": 9.65581507,
+      "elapsed_days": 3,
+      "scheduled_days": 4,
+      "reps": 19,
       "lapses": 2,
       "state": 2,
-      "last_review": "2026-03-16T19:51:44.088Z"
+      "last_review": "2026-03-19T03:46:35.742Z"
     },
     "suspended": false,
     "front": "<ruby>什<rt>shén</rt></ruby><ruby>么<rt>me</rt></ruby>"
@@ -416,15 +416,15 @@
       "last_review": "2026-03-16T20:01:07.789Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:51:56.113Z",
-      "stability": 2.38628684,
-      "difficulty": 9.7292464,
-      "elapsed_days": 5,
-      "scheduled_days": 2,
-      "reps": 15,
+      "due": "2026-03-22T03:46:45.500Z",
+      "stability": 2.77673351,
+      "difficulty": 9.74305676,
+      "elapsed_days": 3,
+      "scheduled_days": 3,
+      "reps": 16,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T19:51:56.113Z"
+      "last_review": "2026-03-19T03:46:45.500Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby><ruby>儿<rt>r</rt></ruby>"
@@ -1604,15 +1604,15 @@
       "last_review": "2026-03-16T19:58:58.512Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:51:31.968Z",
-      "stability": 1.42371141,
-      "difficulty": 9.73920277,
-      "elapsed_days": 5,
-      "scheduled_days": 2,
-      "reps": 17,
+      "due": "2026-03-22T03:46:29.728Z",
+      "stability": 3.06880567,
+      "difficulty": 9.70923514,
+      "elapsed_days": 3,
+      "scheduled_days": 3,
+      "reps": 18,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T19:51:31.968Z"
+      "last_review": "2026-03-19T03:46:29.728Z"
     },
     "suspended": false,
     "front": "<ruby>小<rt>xiǎo</rt></ruby><ruby>姐<rt>jiě</rt></ruby>"
