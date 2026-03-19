@@ -2462,15 +2462,15 @@
       "last_review": "2026-03-19T03:52:04.875Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:50:30.317Z",
+      "due": "2026-03-19T03:58:29.045Z",
       "stability": 0.01,
-      "difficulty": 9.68915286,
-      "elapsed_days": 1,
+      "difficulty": 9.75983167,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:45:30.317Z"
+      "last_review": "2026-03-19T03:53:29.045Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>视<rt>shì</rt></ruby>"
@@ -2759,15 +2759,15 @@
       "last_review": "2026-03-19T03:52:44.172Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:49:34.862Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
-      "elapsed_days": 1,
+      "due": "2026-03-19T03:58:12.989Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:44:34.862Z"
+      "last_review": "2026-03-19T03:53:12.989Z"
     },
     "suspended": false,
     "front": "<ruby>天<rt>tiān</rt></ruby><ruby>气<rt>qì</rt></ruby>"
@@ -2792,15 +2792,15 @@
       "last_review": "2026-03-19T03:52:51.345Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:49:41.261Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
-      "elapsed_days": 1,
+      "due": "2026-03-19T03:58:19.778Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:44:41.261Z"
+      "last_review": "2026-03-19T03:53:19.778Z"
     },
     "suspended": false,
     "front": "<ruby>飞<rt>fēi</rt></ruby><ruby>机<rt>jī</rt></ruby>"
