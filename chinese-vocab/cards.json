@@ -1274,15 +1274,15 @@
       "last_review": "2026-03-16T19:51:38.296Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:46:37.682Z",
-      "stability": 0.1954139,
-      "difficulty": 9.73629385,
-      "elapsed_days": 3,
+      "due": "2026-03-19T04:01:30.454Z",
+      "stability": 0.16411668,
+      "difficulty": 9.74893349,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 13,
+      "reps": 14,
       "lapses": 3,
       "state": 3,
-      "last_review": "2026-03-19T03:41:37.682Z"
+      "last_review": "2026-03-19T03:51:30.454Z"
     },
     "suspended": false,
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -1835,15 +1835,15 @@
       "last_review": "2026-03-11T18:27:06.155Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:44:52.386Z",
-      "stability": 1.56312869,
-      "difficulty": 8.63491207,
-      "elapsed_days": 8,
+      "due": "2026-03-19T04:01:22.531Z",
+      "stability": 1.31278015,
+      "difficulty": 8.83051351,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-19T03:39:52.386Z"
+      "last_review": "2026-03-19T03:51:22.531Z"
     },
     "suspended": false,
     "front": "<ruby>学<rt>xué</rt></ruby><ruby>校<rt>xiào</rt></ruby>"
@@ -2429,15 +2429,15 @@
       "last_review": "2026-03-19T03:43:02.576Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:44:13.866Z",
+      "due": "2026-03-19T03:56:14.814Z",
       "stability": 0.01,
-      "difficulty": 9.6857681,
-      "elapsed_days": 3,
+      "difficulty": 9.7575559,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:39:13.866Z"
+      "last_review": "2026-03-19T03:51:14.814Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>"
