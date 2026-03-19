@@ -2885,14 +2885,27 @@
     "front": "<ruby>是<rt>shì</rt></ruby>"
   },
   "有": {
-    "front": "<ruby>有<rt>yǒu</rt></ruby>",
     "back": "to have / there is",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T03:38:40.281Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:37:40.281Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>有<rt>yǒu</rt></ruby>"
   },
   "看": {
     "front": "<ruby>看<rt>kàn</rt></ruby>",
