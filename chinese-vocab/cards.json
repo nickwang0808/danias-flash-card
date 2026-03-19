@@ -372,26 +372,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T19:52:35.560Z",
-      "stability": 1.61529829,
-      "difficulty": 9.76200809,
-      "elapsed_days": 5,
-      "scheduled_days": 2,
-      "reps": 18,
+      "due": "2026-03-22T03:46:59.780Z",
+      "stability": 3.24238075,
+      "difficulty": 9.73193556,
+      "elapsed_days": 3,
+      "scheduled_days": 3,
+      "reps": 19,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T19:52:35.560Z"
+      "last_review": "2026-03-19T03:46:59.780Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:52:28.604Z",
-      "stability": 1.82497381,
-      "difficulty": 9.66375546,
-      "elapsed_days": 5,
-      "scheduled_days": 2,
-      "reps": 13,
+      "due": "2026-03-23T03:46:55.964Z",
+      "stability": 3.59000872,
+      "difficulty": 9.63413489,
+      "elapsed_days": 3,
+      "scheduled_days": 4,
+      "reps": 14,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T19:52:28.604Z"
+      "last_review": "2026-03-19T03:46:55.964Z"
     },
     "suspended": false,
     "front": "<ruby>哪<rt>nǎ</rt></ruby>"
@@ -1560,15 +1560,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T19:53:45.640Z",
-      "stability": 1.7835551,
-      "difficulty": 9.25261463,
-      "elapsed_days": 4,
+      "due": "2026-03-21T03:47:09.485Z",
+      "stability": 2.31745521,
+      "difficulty": 9.34560317,
+      "elapsed_days": 3,
       "scheduled_days": 2,
-      "reps": 8,
+      "reps": 9,
       "lapses": 0,
       "state": 2,
-      "last_review": "2026-03-16T19:53:45.640Z"
+      "last_review": "2026-03-19T03:47:09.485Z"
     },
     "reverseState": {
       "due": "2026-03-18T19:54:10.744Z",
