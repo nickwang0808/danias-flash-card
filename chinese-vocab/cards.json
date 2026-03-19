@@ -713,15 +713,15 @@
       "last_review": "2026-03-16T19:51:48.478Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:04:57.340Z",
-      "stability": 0.19612924,
-      "difficulty": 9.79545423,
-      "elapsed_days": 0,
+      "due": "2026-03-20T03:41:44.029Z",
+      "stability": 0.42103625,
+      "difficulty": 9.79826613,
+      "elapsed_days": 3,
       "scheduled_days": 1,
-      "reps": 22,
+      "reps": 23,
       "lapses": 3,
       "state": 2,
-      "last_review": "2026-03-16T20:04:57.340Z"
+      "last_review": "2026-03-19T03:41:44.029Z"
     },
     "suspended": false,
     "front": "<ruby>四<rt>sì</rt></ruby>"
@@ -1274,15 +1274,15 @@
       "last_review": "2026-03-16T19:51:38.296Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:04:53.026Z",
-      "stability": 0.27509806,
-      "difficulty": 9.65414506,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 12,
-      "lapses": 2,
-      "state": 2,
-      "last_review": "2026-03-16T20:04:53.026Z"
+      "due": "2026-03-19T03:46:37.682Z",
+      "stability": 0.1954139,
+      "difficulty": 9.73629385,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 13,
+      "lapses": 3,
+      "state": 3,
+      "last_review": "2026-03-19T03:41:37.682Z"
     },
     "suspended": false,
     "front": "<ruby>下<rt>xià</rt></ruby><ruby>午<rt>wǔ</rt></ruby>"
@@ -2330,15 +2330,15 @@
       "last_review": "2026-03-18T02:24:13.374Z"
     },
     "reverseState": {
-      "due": "2026-03-17T20:05:49.077Z",
-      "stability": 0.11947419,
-      "difficulty": 9.16277839,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 7,
-      "lapses": 1,
-      "state": 2,
-      "last_review": "2026-03-16T20:05:49.077Z"
+      "due": "2026-03-19T03:46:51.672Z",
+      "stability": 0.08486762,
+      "difficulty": 9.40591879,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 8,
+      "lapses": 2,
+      "state": 3,
+      "last_review": "2026-03-19T03:41:51.672Z"
     },
     "suspended": false,
     "front": "<ruby>桌<rt>zhuō</rt></ruby><ruby>子<rt>zi</rt></ruby>"
@@ -2550,15 +2550,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-17T20:06:11.111Z",
-      "stability": 0.28393201,
-      "difficulty": 8.06044885,
-      "elapsed_days": 0,
-      "scheduled_days": 1,
-      "reps": 3,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2026-03-16T20:06:11.111Z"
+      "due": "2026-03-19T03:47:00.914Z",
+      "stability": 0.20168903,
+      "difficulty": 8.66475703,
+      "elapsed_days": 3,
+      "scheduled_days": 0,
+      "reps": 4,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2026-03-19T03:42:00.914Z"
     },
     "reverseState": {
       "due": "2026-03-17T20:10:26.100Z",
