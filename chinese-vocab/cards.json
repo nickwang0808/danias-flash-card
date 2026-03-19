@@ -3004,14 +3004,27 @@
     "front": "<ruby>听<rt>tīng</rt></ruby>"
   },
   "说": {
-    "front": "<ruby>说<rt>shuō</rt></ruby>",
     "back": "to speak / to say",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T22:19:54.879Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:14:54.879Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>说<rt>shuō</rt></ruby>"
   },
   "读": {
     "front": "<ruby>读<rt>dú</rt></ruby>",
