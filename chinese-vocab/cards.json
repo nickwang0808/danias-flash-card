@@ -3022,7 +3022,17 @@
       "state": 1,
       "last_review": "2026-03-19T22:14:54.879Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T22:17:17.969Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:16:17.969Z"
+    },
     "suspended": false,
     "front": "<ruby>说<rt>shuō</rt></ruby>"
   },
@@ -3045,7 +3055,17 @@
       "state": 1,
       "last_review": "2026-03-19T22:15:07.803Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T22:17:23.830Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T22:16:23.830Z"
+    },
     "suspended": false,
     "front": "<ruby>读<rt>dú</rt></ruby>"
   },
