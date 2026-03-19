@@ -2319,15 +2319,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T03:55:18.944Z",
-      "stability": 0.01502662,
-      "difficulty": 9.65943185,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 10,
+      "due": "2026-03-20T03:54:21.730Z",
+      "stability": 0.02115404,
+      "difficulty": 9.62983117,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 11,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2026-03-19T03:45:18.944Z"
+      "state": 2,
+      "last_review": "2026-03-19T03:54:21.730Z"
     },
     "reverseState": {
       "due": "2026-03-19T03:56:41.444Z",
@@ -2495,15 +2495,15 @@
       "last_review": "2026-03-19T03:52:30.075Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:55:09.108Z",
-      "stability": 0.03571098,
-      "difficulty": 9.30812893,
-      "elapsed_days": 1,
+      "due": "2026-03-19T04:04:13.494Z",
+      "stability": 0.02999156,
+      "difficulty": 9.39189542,
+      "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 6,
+      "reps": 7,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:45:09.108Z"
+      "last_review": "2026-03-19T03:54:13.494Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
@@ -2682,15 +2682,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T03:54:52.692Z",
-      "stability": 0.99424621,
-      "difficulty": 7.04050155,
-      "elapsed_days": 1,
-      "scheduled_days": 0,
-      "reps": 2,
+      "due": "2026-03-20T03:54:05.976Z",
+      "stability": 1.39967119,
+      "difficulty": 7.02294795,
+      "elapsed_days": 0,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-19T03:44:52.692Z"
+      "state": 2,
+      "last_review": "2026-03-19T03:54:05.976Z"
     },
     "reverseState": {
       "due": "2026-03-21T03:44:57.321Z",
@@ -2847,26 +2847,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T03:54:48.862Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-19T03:59:00.918Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:49:48.862Z"
+      "last_review": "2026-03-19T03:54:00.918Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:55:32.828Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-19T03:59:39.807Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:50:32.828Z"
+      "last_review": "2026-03-19T03:54:39.807Z"
     },
     "suspended": false,
     "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>"
@@ -2979,26 +2979,26 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T03:55:21.890Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-19T03:59:29.999Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:50:21.890Z"
+      "last_review": "2026-03-19T03:54:29.999Z"
     },
     "reverseState": {
-      "due": "2026-03-19T03:55:46.589Z",
-      "stability": 0.20168903,
-      "difficulty": 8.08279701,
+      "due": "2026-03-19T03:59:48.970Z",
+      "stability": 0.10105196,
+      "difficulty": 8.67978303,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:50:46.589Z"
+      "last_review": "2026-03-19T03:54:48.970Z"
     },
     "suspended": false,
     "front": "<ruby>听<rt>tīng</rt></ruby>"
