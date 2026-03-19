@@ -2429,15 +2429,15 @@
       "last_review": "2026-03-19T03:43:02.576Z"
     },
     "reverseState": {
-      "due": "2026-03-19T04:00:02.123Z",
+      "due": "2026-03-19T04:07:07.741Z",
       "stability": 0.01,
-      "difficulty": 9.80582311,
+      "difficulty": 9.80691253,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 10,
+      "reps": 11,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-19T03:55:02.123Z"
+      "last_review": "2026-03-19T03:57:07.741Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>脑<rt>nǎo</rt></ruby>"
@@ -2880,15 +2880,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-19T03:59:57.588Z",
-      "stability": 0.33807815,
-      "difficulty": 7.6297166,
+      "due": "2026-03-20T03:57:02.134Z",
+      "stability": 0.47593669,
+      "difficulty": 7.60945261,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 2,
+      "scheduled_days": 1,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2026-03-19T03:49:57.588Z"
+      "state": 2,
+      "last_review": "2026-03-19T03:57:02.134Z"
     },
     "reverseState": {
       "due": "2026-03-19T04:00:56.277Z",
