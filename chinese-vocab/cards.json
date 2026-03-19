@@ -977,15 +977,15 @@
       "last_review": "2026-03-16T19:50:28.588Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:54:05.199Z",
-      "stability": 0.99674553,
-      "difficulty": 9.80057952,
-      "elapsed_days": 4,
-      "scheduled_days": 2,
-      "reps": 19,
+      "due": "2026-03-20T03:47:24.456Z",
+      "stability": 1.34725942,
+      "difficulty": 9.80254001,
+      "elapsed_days": 3,
+      "scheduled_days": 1,
+      "reps": 20,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T19:54:05.199Z"
+      "last_review": "2026-03-19T03:47:24.456Z"
     },
     "suspended": false,
     "front": "<ruby>年<rt>nián</rt></ruby>"
@@ -1571,15 +1571,15 @@
       "last_review": "2026-03-19T03:47:09.485Z"
     },
     "reverseState": {
-      "due": "2026-03-18T19:54:10.744Z",
-      "stability": 0.97333583,
-      "difficulty": 9.8161955,
-      "elapsed_days": 4,
+      "due": "2026-03-21T03:47:32.529Z",
+      "stability": 2.46336146,
+      "difficulty": 9.78587371,
+      "elapsed_days": 3,
       "scheduled_days": 2,
-      "reps": 25,
+      "reps": 26,
       "lapses": 1,
       "state": 2,
-      "last_review": "2026-03-16T19:54:10.744Z"
+      "last_review": "2026-03-19T03:47:32.529Z"
     },
     "suspended": false,
     "front": "<ruby>先<rt>xiān</rt></ruby><ruby>生<rt>sheng</rt></ruby>"
