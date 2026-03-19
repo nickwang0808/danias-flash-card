@@ -2839,24 +2839,50 @@
     "front": "<ruby>出<rt>chū</rt></ruby><ruby>租<rt>zū</rt></ruby><ruby>车<rt>chē</rt></ruby>"
   },
   "车站": {
-    "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>",
     "back": "station (bus/train)",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "transport"
-    ]
-  },
-  "是": {
-    "front": "<ruby>是<rt>shì</rt></ruby>",
-    "back": "to be (am/is/are)",
+    ],
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
+    "state": {
+      "due": "2026-03-19T03:38:20.646Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:37:20.646Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>"
+  },
+  "是": {
+    "back": "to be (am/is/are)",
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T03:38:28.488Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:37:28.488Z"
+    },
+    "reverseState": null,
+    "suspended": false,
+    "front": "<ruby>是<rt>shì</rt></ruby>"
   },
   "有": {
     "front": "<ruby>有<rt>yǒu</rt></ruby>",
