@@ -2319,15 +2319,15 @@
     "created": "2026-02-15T00:00:00.000Z",
     "reversible": true,
     "state": {
-      "due": "2026-03-18T02:29:13.374Z",
-      "stability": 0.01789221,
-      "difficulty": 9.62896226,
-      "elapsed_days": 2,
+      "due": "2026-03-19T03:55:18.944Z",
+      "stability": 0.01502662,
+      "difficulty": 9.65943185,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 9,
+      "reps": 10,
       "lapses": 1,
       "state": 3,
-      "last_review": "2026-03-18T02:24:13.374Z"
+      "last_review": "2026-03-19T03:45:18.944Z"
     },
     "reverseState": {
       "due": "2026-03-19T03:46:51.672Z",
@@ -2495,15 +2495,15 @@
       "last_review": "2026-03-19T03:43:46.310Z"
     },
     "reverseState": {
-      "due": "2026-03-18T02:29:06.745Z",
-      "stability": 0.0425211,
-      "difficulty": 9.207675,
-      "elapsed_days": 2,
+      "due": "2026-03-19T03:55:09.108Z",
+      "stability": 0.03571098,
+      "difficulty": 9.30812893,
+      "elapsed_days": 1,
       "scheduled_days": 0,
-      "reps": 5,
+      "reps": 6,
       "lapses": 0,
       "state": 1,
-      "last_review": "2026-03-18T02:24:06.745Z"
+      "last_review": "2026-03-19T03:45:09.108Z"
     },
     "suspended": false,
     "front": "<ruby>电<rt>diàn</rt></ruby><ruby>影<rt>yǐng</rt></ruby>"
