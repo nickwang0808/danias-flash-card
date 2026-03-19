@@ -2857,7 +2857,17 @@
       "state": 1,
       "last_review": "2026-03-19T03:37:20.646Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:39:04.446Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:38:04.446Z"
+    },
     "suspended": false,
     "front": "<ruby>车<rt>chē</rt></ruby><ruby>站<rt>zhàn</rt></ruby>"
   },
@@ -2880,7 +2890,17 @@
       "state": 1,
       "last_review": "2026-03-19T03:37:28.488Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:43:10.875Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:38:10.875Z"
+    },
     "suspended": false,
     "front": "<ruby>是<rt>shì</rt></ruby>"
   },
@@ -2903,29 +2923,85 @@
       "state": 1,
       "last_review": "2026-03-19T03:37:40.281Z"
     },
-    "reverseState": null,
+    "reverseState": {
+      "due": "2026-03-19T03:39:18.203Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:38:18.203Z"
+    },
     "suspended": false,
     "front": "<ruby>有<rt>yǒu</rt></ruby>"
   },
   "看": {
-    "front": "<ruby>看<rt>kàn</rt></ruby>",
     "back": "to look / to watch / to read",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T03:38:51.134Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:37:51.134Z"
+    },
+    "reverseState": {
+      "due": "2026-03-19T03:43:23.333Z",
+      "stability": 1.18385,
+      "difficulty": 6.48830527,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:38:23.333Z"
+    },
+    "suspended": false,
+    "front": "<ruby>看<rt>kàn</rt></ruby>"
   },
   "听": {
-    "front": "<ruby>听<rt>tīng</rt></ruby>",
     "back": "to listen",
-    "created": "2026-02-15T00:00:00.000Z",
-    "reversible": true,
     "tags": [
       "hsk1",
       "verbs"
-    ]
+    ],
+    "created": "2026-02-15T00:00:00.000Z",
+    "reversible": true,
+    "state": {
+      "due": "2026-03-19T03:38:57.045Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:37:57.045Z"
+    },
+    "reverseState": {
+      "due": "2026-03-19T03:39:28.768Z",
+      "stability": 0.40255,
+      "difficulty": 7.1949,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": 1,
+      "last_review": "2026-03-19T03:38:28.768Z"
+    },
+    "suspended": false,
+    "front": "<ruby>听<rt>tīng</rt></ruby>"
   },
   "说": {
     "front": "<ruby>说<rt>shuō</rt></ruby>",
